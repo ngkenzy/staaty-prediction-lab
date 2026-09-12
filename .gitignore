@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+secrets/anthropic_api_key.txt
 # C extensions
 *.so
 

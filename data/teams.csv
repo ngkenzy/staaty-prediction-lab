@@ -1,0 +1,804 @@
+team_id,uid,slug,location,name,display_name,short_display_name,abbreviation,color,alternate_color,logo,league
+2325,s:40~l:41~t:2325,,La Salle,Explorers,La Salle Explorers,La Salle,LAS,003356,ffce00,https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png,ncaa_mbb
+2603,s:40~l:41~t:2603,,Saint Joseph's,Hawks,Saint Joseph's Hawks,Saint Joseph's,JOES,9e1b32,6c6f70,https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png,ncaa_mbb
+2670,s:40~l:41~t:2670,,VCU,Rams,VCU Rams,VCU,VCU,ffaf00,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png,ncaa_mbb
+228,s:40~l:41~t:228,,Clemson,Tigers,Clemson Tigers,Clemson,CLEM,f56600,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/228.png,ncaa_mbb
+97,s:40~l:41~t:97,,Louisville,Cardinals,Louisville Cardinals,Louisville,LOU,c9001f,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png,ncaa_mbb
+153,s:40~l:41~t:153,,North Carolina,Tar Heels,North Carolina Tar Heels,North Carolina,UNC,7bafd4,13294b,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png,ncaa_mbb
+2567,s:40~l:41~t:2567,,SMU,Mustangs,SMU Mustangs,SMU,SMU,a80000,0033a1,https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png,ncaa_mbb
+154,s:40~l:41~t:154,,Wake Forest,Demon Deacons,Wake Forest Demon Deacons,Wake Forest,WAKE,ceb888,2c2a29,https://a.espncdn.com/i/teamlogos/ncaa/500/154.png,ncaa_mbb
+26,s:40~l:41~t:26,,UCLA,Bruins,UCLA Bruins,UCLA,UCLA,2774ae,f2a900,https://a.espncdn.com/i/teamlogos/ncaa/500/26.png,ncaa_mbb
+12,s:40~l:41~t:12,,Arizona,Wildcats,Arizona Wildcats,Arizona,ARIZ,cc0033,003366,https://a.espncdn.com/i/teamlogos/ncaa/500/12.png,ncaa_mbb
+163,s:40~l:41~t:163,,Princeton,Tigers,Princeton Tigers,Princeton,PRIN,000000,ff6000,https://a.espncdn.com/i/teamlogos/ncaa/500/163.png,ncaa_mbb
+103,s:40~l:41~t:103,,Boston College,Eagles,Boston College Eagles,Boston College,BC,8c2232,dbcca6,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png,ncaa_mbb
+150,s:40~l:41~t:150,,Duke,Blue Devils,Duke Blue Devils,Duke,DUKE,00539b,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/150.png,ncaa_mbb
+183,s:40~l:41~t:183,,Syracuse,Orange,Syracuse Orange,Syracuse,SYR,000e54,ff431b,https://a.espncdn.com/i/teamlogos/ncaa/500/183.png,ncaa_mbb
+259,s:40~l:41~t:259,,Virginia Tech,Hokies,Virginia Tech Hokies,Virginia Tech,VT,6a2c3e,cf4520,https://a.espncdn.com/i/teamlogos/ncaa/500/259.png,ncaa_mbb
+38,s:40~l:41~t:38,,Colorado,Buffaloes,Colorado Buffaloes,Colorado,COLO,cfb87c,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/38.png,ncaa_mbb
+248,s:40~l:41~t:248,,Houston,Cougars,Houston Cougars,Houston,HOU,c8102e,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/248.png,ncaa_mbb
+66,s:40~l:41~t:66,,Iowa State,Cyclones,Iowa State Cyclones,Iowa State,ISU,ae192d,ffc72a,https://a.espncdn.com/i/teamlogos/ncaa/500/66.png,ncaa_mbb
+2305,s:40~l:41~t:2305,,Kansas,Jayhawks,Kansas Jayhawks,Kansas,KU,0051ba,e8000d,https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png,ncaa_mbb
+2628,s:40~l:41~t:2628,,TCU,Horned Frogs,TCU Horned Frogs,TCU,TCU,4d1979,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png,ncaa_mbb
+277,s:40~l:41~t:277,,West Virginia,Mountaineers,West Virginia Mountaineers,West Virginia,WVU,eaaa00,002855,https://a.espncdn.com/i/teamlogos/ncaa/500/277.png,ncaa_mbb
+356,s:40~l:41~t:356,,Illinois,Fighting Illini,Illinois Fighting Illini,Illinois,ILL,ff5f05,13294b,https://a.espncdn.com/i/teamlogos/ncaa/500/356.png,ncaa_mbb
+120,s:40~l:41~t:120,,Maryland,Terrapins,Maryland Terrapins,Maryland,MD,ce1126,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png,ncaa_mbb
+130,s:40~l:41~t:130,,Michigan,Wolverines,Michigan Wolverines,Michigan,MICH,00274c,ffcb05,https://a.espncdn.com/i/teamlogos/ncaa/500/130.png,ncaa_mbb
+2509,s:40~l:41~t:2509,,Purdue,Boilermakers,Purdue Boilermakers,Purdue,PUR,ceb888,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png,ncaa_mbb
+158,s:40~l:41~t:158,,Nebraska,Cornhuskers,Nebraska Cornhuskers,Nebraska,NEB,e31937,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png,ncaa_mbb
+2184,s:40~l:41~t:2184,,Duquesne,Dukes,Duquesne Dukes,Duquesne,DUQ,002D62,b90b2e,https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png,ncaa_mbb
+2005,s:40~l:41~t:2005,,Air Force,Falcons,Air Force Falcons,Air Force,AF,003594,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png,ncaa_mbb
+2579,s:40~l:41~t:2579,,South Carolina,Gamecocks,South Carolina Gamecocks,South Carolina,SC,73000a,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png,ncaa_mbb
+2086,s:40~l:41~t:2086,,Butler,Bulldogs,Butler Bulldogs,Butler,BTLR,0d1361,00a3e0,https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png,ncaa_mbb
+57,s:40~l:41~t:57,,Florida,Gators,Florida Gators,Florida,FLA,0021a5,fa4616,https://a.espncdn.com/i/teamlogos/ncaa/500/57.png,ncaa_mbb
+61,s:40~l:41~t:61,,Georgia,Bulldogs,Georgia Bulldogs,Georgia,UGA,ba0c2f,2c2a29,https://a.espncdn.com/i/teamlogos/ncaa/500/61.png,ncaa_mbb
+96,s:40~l:41~t:96,,Kentucky,Wildcats,Kentucky Wildcats,Kentucky,UK,0033a0,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png,ncaa_mbb
+344,s:40~l:41~t:344,,Mississippi State,Bulldogs,Mississippi State Bulldogs,Mississippi St,MSST,5d1725,c1c6c8,https://a.espncdn.com/i/teamlogos/ncaa/500/344.png,ncaa_mbb
+235,s:40~l:41~t:235,,Memphis,Tigers,Memphis Tigers,Memphis,MEM,004991,8e908f,https://a.espncdn.com/i/teamlogos/ncaa/500/235.png,ncaa_mbb
+145,s:40~l:41~t:145,,Ole Miss,Rebels,Ole Miss Rebels,Ole Miss,MISS,13294b,cf142b,https://a.espncdn.com/i/teamlogos/ncaa/500/145.png,ncaa_mbb
+2633,s:40~l:41~t:2633,,Tennessee,Volunteers,Tennessee Volunteers,Tennessee,TENN,ff8200,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png,ncaa_mbb
+251,s:40~l:41~t:251,,Texas,Longhorns,Texas Longhorns,Texas,TEX,af5c37,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/251.png,ncaa_mbb
+2116,s:40~l:41~t:2116,,UCF,Knights,UCF Knights,UCF,UCF,000000,b4a169,https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png,ncaa_mbb
+2294,s:40~l:41~t:2294,,Iowa,Hawkeyes,Iowa Hawkeyes,Iowa,IOWA,231f20,fcd116,https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png,ncaa_mbb
+77,s:40~l:41~t:77,,Northwestern,Wildcats,Northwestern Wildcats,Northwestern,NU,492f92,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png,ncaa_mbb
+213,s:40~l:41~t:213,,Penn State,Nittany Lions,Penn State Nittany Lions,Penn State,PSU,061440,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/213.png,ncaa_mbb
+275,s:40~l:41~t:275,,Wisconsin,Badgers,Wisconsin Badgers,Wisconsin,WIS,a00000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/275.png,ncaa_mbb
+269,s:40~l:41~t:269,,Marquette,Golden Eagles,Marquette Golden Eagles,Marquette,MARQ,003366,ffcc00,https://a.espncdn.com/i/teamlogos/ncaa/500/269.png,ncaa_mbb
+2507,s:40~l:41~t:2507,,Providence,Friars,Providence Friars,Providence,PROV,000000,a3a19e,https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png,ncaa_mbb
+2550,s:40~l:41~t:2550,,Seton Hall,Pirates,Seton Hall Pirates,Seton Hall,HALL,0857B1,8a8d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png,ncaa_mbb
+2599,s:40~l:41~t:2599,,St. John's,Red Storm,St. John's Red Storm,St John's,SJU,d10000,101010,https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png,ncaa_mbb
+222,s:40~l:41~t:222,,Villanova,Wildcats,Villanova Wildcats,Villanova,VILL,00205b,13b5ea,https://a.espncdn.com/i/teamlogos/ncaa/500/222.png,ncaa_mbb
+2752,s:40~l:41~t:2752,,Xavier,Musketeers,Xavier Musketeers,Xavier,XAV,21304e,a5a7a8,https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png,ncaa_mbb
+2132,s:40~l:41~t:2132,,Cincinnati,Bearcats,Cincinnati Bearcats,Cincinnati,CIN,000000,e00122,https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png,ncaa_mbb
+52,s:40~l:41~t:52,,Florida State,Seminoles,Florida State Seminoles,Florida St,FSU,782f40,ceb888,https://a.espncdn.com/i/teamlogos/ncaa/500/52.png,ncaa_mbb
+2390,s:40~l:41~t:2390,,Miami,Hurricanes,Miami Hurricanes,Miami,MIA,f47423,035131,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png,ncaa_mbb
+221,s:40~l:41~t:221,,Pittsburgh,Panthers,Pittsburgh Panthers,Pitt,PITT,003594,ffb81c,https://a.espncdn.com/i/teamlogos/ncaa/500/221.png,ncaa_mbb
+24,s:40~l:41~t:24,,Stanford,Cardinal,Stanford Cardinal,Stanford,STAN,8c1515,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/24.png,ncaa_mbb
+79,s:40~l:41~t:79,,Southern Illinois,Salukis,Southern Illinois Salukis,S Illinois,SIU,85283D,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/79.png,ncaa_mbb
+2541,s:40~l:41~t:2541,,Santa Clara,Broncos,Santa Clara Broncos,Santa Clara,SCU,690b0b,101010,https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png,ncaa_mbb
+2571,s:40~l:41~t:2571,,South Dakota State,Jackrabbits,South Dakota State Jackrabbits,S Dakota St,SDST,0033a0,ffd100,https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png,ncaa_mbb
+2856,s:40~l:41~t:2856,,California Baptist,Lancers,California Baptist Lancers,CA Baptist,CBU,000080,,https://a.espncdn.com/i/teamlogos/ncaa/500/2856.png,ncaa_mbb
+2244,s:40~l:41~t:2244,,George Mason,Patriots,George Mason Patriots,George Mason,GMU,016600,ecb010,https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png,ncaa_mbb
+45,s:40~l:41~t:45,,George Washington,Revolutionaries,George Washington Revolutionaries,G Washington,GW,002843,e8d2a1,https://a.espncdn.com/i/teamlogos/ncaa/500/45.png,ncaa_mbb
+2350,s:40~l:41~t:2350,,Loyola Chicago,Ramblers,Loyola Chicago Ramblers,Loyola Chicago,LUC,9d1244,,https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png,ncaa_mbb
+113,s:40~l:41~t:113,,Massachusetts,Minutemen,Massachusetts Minutemen,UMass,MASS,881c1c,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/113.png,ncaa_mbb
+227,s:40~l:41~t:227,,Rhode Island,Rams,Rhode Island Rams,Rhode Island,URI,091f3f,5ab3e8,https://a.espncdn.com/i/teamlogos/ncaa/500/227.png,ncaa_mbb
+2335,s:40~l:41~t:2335,,Liberty,Flames,Liberty Flames,Liberty,LIB,0a254e,b72025,https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png,ncaa_mbb
+197,s:40~l:41~t:197,,Oklahoma State,Cowboys,Oklahoma State Cowboys,Oklahoma St,OKST,fe5c00,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/197.png,ncaa_mbb
+333,s:40~l:41~t:333,,Alabama,Crimson Tide,Alabama Crimson Tide,Alabama,ALA,9e1b32,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png,ncaa_mbb
+152,s:40~l:41~t:152,,NC State,Wolfpack,NC State Wolfpack,NC State,NCSU,cc0000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png,ncaa_mbb
+179,s:40~l:41~t:179,,St. Bonaventure,Bonnies,St. Bonaventure Bonnies,St Bonaventure,SBU,70261D,,https://a.espncdn.com/i/teamlogos/ncaa/500/179.png,ncaa_mbb
+25,s:40~l:41~t:25,,California,Golden Bears,California Golden Bears,California,CAL,041e42,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png,ncaa_mbb
+265,s:40~l:41~t:265,,Washington State,Cougars,Washington State Cougars,Washington St,WSU,a60f2d,4d4d4d,https://a.espncdn.com/i/teamlogos/ncaa/500/265.png,ncaa_mbb
+2429,s:40~l:41~t:2429,,Charlotte,49ers,Charlotte 49ers,Charlotte,CLT,005035,a49665,https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png,ncaa_mbb
+254,s:40~l:41~t:254,,Utah,Utes,Utah Utes,Utah,UTAH,be0000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/254.png,ncaa_mbb
+2561,s:40~l:41~t:2561,,Siena,Saints,Siena Saints,Siena,SIE,037961,eea60f,https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png,ncaa_mbb
+2032,s:40~l:41~t:2032,,Arkansas State,Red Wolves,Arkansas State Red Wolves,Arkansas St,ARST,cc092f,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png,ncaa_mbb
+2247,s:40~l:41~t:2247,,Georgia State,Panthers,Georgia State Panthers,Georgia St,GAST,0039a6,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png,ncaa_mbb
+2572,s:40~l:41~t:2572,,Southern Miss,Golden Eagles,Southern Miss Golden Eagles,Southern Miss,USM,ffc72c,231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png,ncaa_mbb
+295,s:40~l:41~t:295,,Old Dominion,Monarchs,Old Dominion Monarchs,Old Dominion,ODU,003768,a1d2f1,https://a.espncdn.com/i/teamlogos/ncaa/500/295.png,ncaa_mbb
+6,s:40~l:41~t:6,,South Alabama,Jaguars,South Alabama Jaguars,South Alabama,USA,00205b,bf0d3e,https://a.espncdn.com/i/teamlogos/ncaa/500/6.png,ncaa_mbb
+326,s:40~l:41~t:326,,Texas State,Bobcats,Texas State Bobcats,Texas St,TXST,501214,6a5638,https://a.espncdn.com/i/teamlogos/ncaa/500/326.png,ncaa_mbb
+309,s:40~l:41~t:309,,Louisiana,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana,UL,ce181e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/309.png,ncaa_mbb
+2026,s:40~l:41~t:2026,,App State,Mountaineers,App State Mountaineers,App State,APP,000000,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png,ncaa_mbb
+290,s:40~l:41~t:290,,Georgia Southern,Eagles,Georgia Southern Eagles,GA Southern,GASO,041e42,a3aaae,https://a.espncdn.com/i/teamlogos/ncaa/500/290.png,ncaa_mbb
+256,s:40~l:41~t:256,,James Madison,Dukes,James Madison Dukes,James Madison,JMU,450084,cbb677,https://a.espncdn.com/i/teamlogos/ncaa/500/256.png,ncaa_mbb
+2653,s:40~l:41~t:2653,,Troy,Trojans,Troy Trojans,Troy,TROY,862633,b1b1b1,https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png,ncaa_mbb
+324,s:40~l:41~t:324,,Coastal Carolina,Chanticleers,Coastal Carolina Chanticleers,Coastal,CCU,006f71,a27752,https://a.espncdn.com/i/teamlogos/ncaa/500/324.png,ncaa_mbb
+127,s:40~l:41~t:127,,Michigan State,Spartans,Michigan State Spartans,Michigan St,MSU,173f35,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/127.png,ncaa_mbb
+2483,s:40~l:41~t:2483,,Oregon,Ducks,Oregon Ducks,Oregon,ORE,00934b,fff41b,https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png,ncaa_mbb
+30,s:40~l:41~t:30,,USC,Trojans,USC Trojans,USC,USC,9d2235,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/30.png,ncaa_mbb
+2885,s:40~l:41~t:2885,,NJIT,Highlanders,NJIT Highlanders,NJIT,NJIT,EE3024,df3e2e,https://a.espncdn.com/i/teamlogos/ncaa/500/2885.png,ncaa_mbb
+2352,s:40~l:41~t:2352,,Loyola Maryland,Greyhounds,Loyola Maryland Greyhounds,Loyola MD,L-MD,76a7a0,c9cbca,https://a.espncdn.com/i/teamlogos/ncaa/500/2352.png,ncaa_mbb
+108,s:40~l:41~t:108,,Harvard,Crimson,Harvard Crimson,Harvard,HARV,990000,dbdbdb,https://a.espncdn.com/i/teamlogos/ncaa/500/108.png,ncaa_mbb
+43,s:40~l:41~t:43,,Yale,Bulldogs,Yale Bulldogs,Yale,YALE,004a81,286dc0,https://a.espncdn.com/i/teamlogos/ncaa/500/43.png,ncaa_mbb
+104,s:40~l:41~t:104,,Boston University,Terriers,Boston University Terriers,Boston U,BU,cc0000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/104.png,ncaa_mbb
+48,s:40~l:41~t:48,,Delaware,Blue Hens,Delaware Blue Hens,Delaware,DEL,00539f,ffd200,https://a.espncdn.com/i/teamlogos/ncaa/500/48.png,ncaa_mbb
+349,s:40~l:41~t:349,,Army,Black Knights,Army Black Knights,Army,ARMY,000000,d3bc8d,https://a.espncdn.com/i/teamlogos/ncaa/500/349.png,ncaa_mbb
+2430,s:40~l:41~t:2430,,UNC Greensboro,Spartans,UNC Greensboro Spartans,UNC Greensboro,UNCG,003559,ffd90a,https://a.espncdn.com/i/teamlogos/ncaa/500/2430.png,ncaa_mbb
+233,s:40~l:41~t:233,,South Dakota,Coyotes,South Dakota Coyotes,South Dakota,SDAK,CD1241,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/233.png,ncaa_mbb
+5,s:40~l:41~t:5,,UAB,Blazers,UAB Blazers,UAB,UAB,1a5632,fdb913,https://a.espncdn.com/i/teamlogos/ncaa/500/5.png,ncaa_mbb
+2226,s:40~l:41~t:2226,,Florida Atlantic,Owls,Florida Atlantic Owls,FAU,FAU,003366,cc0000,https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png,ncaa_mbb
+36,s:40~l:41~t:36,,Colorado State,Rams,Colorado State Rams,Colorado St,CSU,004c23,c8c372,https://a.espncdn.com/i/teamlogos/ncaa/500/36.png,ncaa_mbb
+2440,s:40~l:41~t:2440,,Nevada,Wolf Pack,Nevada Wolf Pack,Nevada,NEV,041e42,8a8d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png,ncaa_mbb
+167,s:40~l:41~t:167,,New Mexico,Lobos,New Mexico Lobos,New Mexico,UNM,ba0c2f,a7a8aa,https://a.espncdn.com/i/teamlogos/ncaa/500/167.png,ncaa_mbb
+218,s:40~l:41~t:218,,Temple,Owls,Temple Owls,Temple,TEM,a41e35,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/218.png,ncaa_mbb
+98,s:40~l:41~t:98,,Western Kentucky,Hilltoppers,Western Kentucky Hilltoppers,Western KY,WKU,e13a3e,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/98.png,ncaa_mbb
+2253,s:40~l:41~t:2253,,Grand Canyon,Lopes,Grand Canyon Lopes,Grand Canyon,GCU,522398,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2253.png,ncaa_mbb
+23,s:40~l:41~t:23,,San José State,Spartans,San José State Spartans,San José St,SJSU,0038a8,ffb81a,https://a.espncdn.com/i/teamlogos/ncaa/500/23.png,ncaa_mbb
+2439,s:40~l:41~t:2439,,UNLV,Rebels,UNLV Rebels,UNLV,UNLV,cf0a2c,cac8c8,https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png,ncaa_mbb
+71,s:40~l:41~t:71,,Bradley,Braves,Bradley Braves,Bradley,BRAD,b70002,c0c0c0,https://a.espncdn.com/i/teamlogos/ncaa/500/71.png,ncaa_mbb
+2287,s:40~l:41~t:2287,,Illinois State,Redbirds,Illinois State Redbirds,Illinois St,ILST,CE1126,ffe716,https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png,ncaa_mbb
+238,s:40~l:41~t:238,,Vanderbilt,Commodores,Vanderbilt Commodores,Vanderbilt,VAN,000000,cfae70,https://a.espncdn.com/i/teamlogos/ncaa/500/238.png,ncaa_mbb
+2608,s:40~l:41~t:2608,,Saint Mary's,Gaels,Saint Mary's Gaels,Saint Mary's,SMC,d80024,003057,https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png,ncaa_mbb
+204,s:40~l:41~t:204,,Oregon State,Beavers,Oregon State Beavers,Oregon St,ORST,dc4405,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/204.png,ncaa_mbb
+2250,s:40~l:41~t:2250,,Gonzaga,Bulldogs,Gonzaga Bulldogs,Gonzaga,GONZ,041e42,c8102e,https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png,ncaa_mbb
+252,s:40~l:41~t:252,,BYU,Cougars,BYU Cougars,BYU,BYU,0047ba,002e5d,https://a.espncdn.com/i/teamlogos/ncaa/500/252.png,ncaa_mbb
+2306,s:40~l:41~t:2306,,Kansas State,Wildcats,Kansas State Wildcats,Kansas St,KSU,330a57,e2e3e4,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png,ncaa_mbb
+264,s:40~l:41~t:264,,Washington,Huskies,Washington Huskies,Washington,WASH,33006f,e8d3a2,https://a.espncdn.com/i/teamlogos/ncaa/500/264.png,ncaa_mbb
+2641,s:40~l:41~t:2641,,Texas Tech,Red Raiders,Texas Tech Red Raiders,Texas Tech,TTU,da291c,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png,ncaa_mbb
+9,s:40~l:41~t:9,,Arizona State,Sun Devils,Arizona State Sun Devils,Arizona St,ASU,ffc627,8c1d40,https://a.espncdn.com/i/teamlogos/ncaa/500/9.png,ncaa_mbb
+249,s:40~l:41~t:249,,North Texas,Mean Green,North Texas Mean Green,North Texas,UNT,068f33,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/249.png,ncaa_mbb
+242,s:40~l:41~t:242,,Rice,Owls,Rice Owls,Rice,RICE,00205b,c1c6c8,https://a.espncdn.com/i/teamlogos/ncaa/500/242.png,ncaa_mbb
+2539,s:40~l:41~t:2539,,San Francisco,Dons,San Francisco Dons,San Francisco,SF,005a36,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png,ncaa_mbb
+258,s:40~l:41~t:258,,Virginia,Cavaliers,Virginia Cavaliers,Virginia,UVA,232d4b,f84c1e,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png,ncaa_mbb
+301,s:40~l:41~t:301,,San Diego,Toreros,San Diego Toreros,San Diego,USD,2f99d4,2f99d4,https://a.espncdn.com/i/teamlogos/ncaa/500/301.png,ncaa_mbb
+84,s:40~l:41~t:84,,Indiana,Hoosiers,Indiana Hoosiers,Indiana,IU,970310,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png,ncaa_mbb
+8,s:40~l:41~t:8,,Arkansas,Razorbacks,Arkansas Razorbacks,Arkansas,ARK,a32136,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png,ncaa_mbb
+2,s:40~l:41~t:2,,Auburn,Tigers,Auburn Tigers,Auburn,AUB,002b5c,f26522,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png,ncaa_mbb
+99,s:40~l:41~t:99,,LSU,Tigers,LSU Tigers,LSU,LSU,461d76,fdd023,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png,ncaa_mbb
+135,s:40~l:41~t:135,,Minnesota,Golden Gophers,Minnesota Golden Gophers,Minnesota,MINN,5e0a2f,fab41c,https://a.espncdn.com/i/teamlogos/ncaa/500/135.png,ncaa_mbb
+164,s:40~l:41~t:164,,Rutgers,Scarlet Knights,Rutgers Scarlet Knights,Rutgers,RUTG,ce0e2d,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/164.png,ncaa_mbb
+156,s:40~l:41~t:156,,Creighton,Bluejays,Creighton Bluejays,Creighton,CREI,005ca9,6cadde,https://a.espncdn.com/i/teamlogos/ncaa/500/156.png,ncaa_mbb
+46,s:40~l:41~t:46,,Georgetown,Hoyas,Georgetown Hoyas,Georgetown,GTWN,110E42,001c58,https://a.espncdn.com/i/teamlogos/ncaa/500/46.png,ncaa_mbb
+41,s:40~l:41~t:41,,UConn,Huskies,UConn Huskies,UConn,CONN,0c2340,a2aaad,https://a.espncdn.com/i/teamlogos/ncaa/500/41.png,ncaa_mbb
+59,s:40~l:41~t:59,,Georgia Tech,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech,GT,b3a369,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/59.png,ncaa_mbb
+87,s:40~l:41~t:87,,Notre Dame,Fighting Irish,Notre Dame Fighting Irish,Notre Dame,ND,062340,c99700,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png,ncaa_mbb
+331,s:40~l:41~t:331,,Eastern Washington,Eagles,Eastern Washington Eagles,E Washington,EWU,a10022,abb4bc,https://a.espncdn.com/i/teamlogos/ncaa/500/331.png,ncaa_mbb
+2272,s:40~l:41~t:2272,,High Point,Panthers,High Point Panthers,High Point,HPU,330072,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png,ncaa_mbb
+2330,s:40~l:41~t:2330,,Le Moyne,Dolphins,Le Moyne Dolphins,Le Moyne,LEM,,,https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png,ncaa_mbb
+2415,s:40~l:41~t:2415,,Morgan State,Bears,Morgan State Bears,Morgan St,MORG,014786,f47937,https://a.espncdn.com/i/teamlogos/ncaa/500/2415.png,ncaa_mbb
+328,s:40~l:41~t:328,,Utah State,Aggies,Utah State Aggies,Utah State,USU,0f2439,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/328.png,ncaa_mbb
+68,s:40~l:41~t:68,,Boise State,Broncos,Boise State Broncos,Boise St,BOIS,0033a0,d64309,https://a.espncdn.com/i/teamlogos/ncaa/500/68.png,ncaa_mbb
+21,s:40~l:41~t:21,,San Diego State,Aztecs,San Diego State Aztecs,San Diego St,SDSU,a6192e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/21.png,ncaa_mbb
+2492,s:40~l:41~t:2492,,Pepperdine,Waves,Pepperdine Waves,Pepperdine,PEPP,003A72,dc762f,https://a.espncdn.com/i/teamlogos/ncaa/500/2492.png,ncaa_mbb
+2454,s:40~l:41~t:2454,,North Florida,Ospreys,North Florida Ospreys,North Florida,UNF,004B8D,babcbe,https://a.espncdn.com/i/teamlogos/ncaa/500/2454.png,ncaa_mbb
+56,s:40~l:41~t:56,,Stetson,Hatters,Stetson Hatters,Stetson,STET,0a5640,56854e,https://a.espncdn.com/i/teamlogos/ncaa/500/56.png,ncaa_mbb
+305,s:40~l:41~t:305,,DePaul,Blue Demons,DePaul Blue Demons,DePaul,DEP,2d649c,ce1125,https://a.espncdn.com/i/teamlogos/ncaa/500/305.png,ncaa_mbb
+2460,s:40~l:41~t:2460,,Northern Iowa,Panthers,Northern Iowa Panthers,Northern Iowa,UNI,473282,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png,ncaa_mbb
+70,s:40~l:41~t:70,,Idaho,Vandals,Idaho Vandals,Idaho,IDHO,000000,8c6e4a,https://a.espncdn.com/i/teamlogos/ncaa/500/70.png,ncaa_mbb
+2117,s:40~l:41~t:2117,,Central Michigan,Chippewas,Central Michigan Chippewas,C Michigan,CMU,4c0027,fbab18,https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png,ncaa_mbb
+219,s:40~l:41~t:219,,Pennsylvania,Quakers,Pennsylvania Quakers,Penn,PENN,082A74,a6163d,https://a.espncdn.com/i/teamlogos/ncaa/500/219.png,ncaa_mbb
+2449,s:40~l:41~t:2449,,North Dakota State,Bison,North Dakota State Bison,N Dakota St,NDSU,01402A,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png,ncaa_mbb
+2275,s:40~l:41~t:2275,,Hofstra,Pride,Hofstra Pride,Hofstra,HOF,003594,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png,ncaa_mbb
+2193,s:40~l:41~t:2193,,East Tennessee State,Buccaneers,East Tennessee State Buccaneers,ETSU,ETSU,002d61,ffc423,https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png,ncaa_mbb
+142,s:40~l:41~t:142,,Missouri,Tigers,Missouri Tigers,Missouri,MIZ,f1b82d,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png,ncaa_mbb
+245,s:40~l:41~t:245,,Texas A&M,Aggies,Texas A&M Aggies,Texas A&M,TA&M,500000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/245.png,ncaa_mbb
+2426,s:40~l:41~t:2426,,Navy,Midshipmen,Navy Midshipmen,Navy,NAVY,00225b,b5a67c,https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png,ncaa_mbb
+2803,s:40~l:41~t:2803,,Bryant,Bulldogs,Bryant Bulldogs,Bryant,BRY,000000,9f8343,https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png,ncaa_mbb
+278,s:40~l:41~t:278,,Fresno State,Bulldogs,Fresno State Bulldogs,Fresno St,FRES,b1102b,13284c,https://a.espncdn.com/i/teamlogos/ncaa/500/278.png,ncaa_mbb
+2351,s:40~l:41~t:2351,,Loyola Marymount,Lions,Loyola Marymount Lions,LMU,LMU,880029,00345b,https://a.espncdn.com/i/teamlogos/ncaa/500/2351.png,ncaa_mbb
+189,s:40~l:41~t:189,,Bowling Green,Falcons,Bowling Green Falcons,Bowling Green,BGSU,fd5000,4f2c1d,https://a.espncdn.com/i/teamlogos/ncaa/500/189.png,ncaa_mbb
+172,s:40~l:41~t:172,,Cornell,Big Red,Cornell Big Red,Cornell,COR,b31b1b,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/172.png,ncaa_mbb
+82,s:40~l:41~t:82,,UIC,Flames,UIC Flames,UIC,UIC,001e62,d50032,https://a.espncdn.com/i/teamlogos/ncaa/500/82.png,ncaa_mbb
+2349,s:40~l:41~t:2349,,UMass Lowell,River Hawks,UMass Lowell River Hawks,UMass Lowell,UML,00529C,cf1f2f,https://a.espncdn.com/i/teamlogos/ncaa/500/2349.png,ncaa_mbb
+232,s:40~l:41~t:232,,Charleston,Cougars,Charleston Cougars,Charleston,COFC,7a2531,9e8959,https://a.espncdn.com/i/teamlogos/ncaa/500/232.png,ncaa_mbb
+2405,s:40~l:41~t:2405,,Monmouth,Hawks,Monmouth Hawks,Monmouth,MONM,051844,,https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png,ncaa_mbb
+2655,s:40~l:41~t:2655,,Tulane,Green Wave,Tulane Green Wave,Tulane,TULN,006747,418fde,https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png,ncaa_mbb
+2515,s:40~l:41~t:2515,,Radford,Highlanders,Radford Highlanders,Radford,RAD,BC1515,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2515.png,ncaa_mbb
+279,s:40~l:41~t:279,,Pacific,Tigers,Pacific Tigers,Pacific,PAC,F47820,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/279.png,ncaa_mbb
+2057,s:40~l:41~t:2057,,Belmont,Bruins,Belmont Bruins,Belmont,BEL,182142,c9262d,https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png,ncaa_mbb
+350,s:40~l:41~t:350,,UNC Wilmington,Seahawks,UNC Wilmington Seahawks,UNC Wilmington,UNCW,00665e,ffda00,https://a.espncdn.com/i/teamlogos/ncaa/500/350.png,ncaa_mbb
+2447,s:40~l:41~t:2447,,Nicholls,Colonels,Nicholls Colonels,Nicholls,NICH,C41230,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png,ncaa_mbb
+2739,s:40~l:41~t:2739,,Green Bay,Phoenix,Green Bay Phoenix,Green Bay,GB,006633,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png,ncaa_mbb
+2428,s:40~l:41~t:2428,,North Carolina Central,Eagles,North Carolina Central Eagles,NC Central,NCCU,880023,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png,ncaa_mbb
+2154,s:40~l:41~t:2154,,Coppin State,Eagles,Coppin State Eagles,Coppin St,COPP,2e3192,ffd204,https://a.espncdn.com/i/teamlogos/ncaa/500/2154.png,ncaa_mbb
+2099,s:40~l:41~t:2099,,Canisius,Golden Griffins,Canisius Golden Griffins,Canisius,CAN,004a81,dda50f,https://a.espncdn.com/i/teamlogos/ncaa/500/2099.png,ncaa_mbb
+288,s:40~l:41~t:288,,Lipscomb,Bisons,Lipscomb Bisons,Lipscomb,LIP,20366C,f6b734,https://a.espncdn.com/i/teamlogos/ncaa/500/288.png,ncaa_mbb
+2168,s:40~l:41~t:2168,,Dayton,Flyers,Dayton Flyers,Dayton,DAY,004B8D,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png,ncaa_mbb
+2636,s:40~l:41~t:2636,,UTSA,Roadrunners,UTSA Roadrunners,UTSA,UTSA,0c2340,f15a22,https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png,ncaa_mbb
+257,s:40~l:41~t:257,,Richmond,Spiders,Richmond Spiders,Richmond,RICH,9e0712,b90b2e,https://a.espncdn.com/i/teamlogos/ncaa/500/257.png,ncaa_mbb
+2547,s:40~l:41~t:2547,,Seattle U,Redhawks,Seattle U Redhawks,Seattle U,SEA,BF2E1A,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png,ncaa_mbb
+195,s:40~l:41~t:195,,Ohio,Bobcats,Ohio Bobcats,Ohio,OHIO,154734,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/195.png,ncaa_mbb
+2737,s:40~l:41~t:2737,,Winthrop,Eagles,Winthrop Eagles,Winthrop,WIN,9e0b0e,fdb41e,https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png,ncaa_mbb
+2344,s:40~l:41~t:2344,,Longwood,Lancers,Longwood Lancers,Longwood,LONG,003273,9ea2a3,https://a.espncdn.com/i/teamlogos/ncaa/500/2344.png,ncaa_mbb
+2443,s:40~l:41~t:2443,,LSU New Orleans,Privateers,LSU New Orleans Privateers,LSU N Orleans,NOLA,005da6,a2a9ae,https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png,ncaa_mbb
+159,s:40~l:41~t:159,,Dartmouth,Big Green,Dartmouth Big Green,Dartmouth,DART,005730,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/159.png,ncaa_mbb
+2724,s:40~l:41~t:2724,,Wichita State,Shockers,Wichita State Shockers,Wichita St,WICH,ffcd00,27251f,https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png,ncaa_mbb
+193,s:40~l:41~t:193,,Miami (OH),RedHawks,Miami (OH) RedHawks,Miami OH,M-OH,c41230,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/193.png,ncaa_mbb
+276,s:40~l:41~t:276,,Marshall,Thundering Herd,Marshall Thundering Herd,Marshall,MRSH,00b140,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/276.png,ncaa_mbb
+2130,s:40~l:41~t:2130,,Chicago State,Cougars,Chicago State Cougars,Chicago St,CHST,006700,,https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png,ncaa_mbb
+171,s:40~l:41~t:171,,Columbia,Lions,Columbia Lions,Columbia,COLU,7ba4db,183863,https://a.espncdn.com/i/teamlogos/ncaa/500/171.png,ncaa_mbb
+2182,s:40~l:41~t:2182,,Drexel,Dragons,Drexel Dragons,Drexel,DREX,020260,ffd65a,https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png,ncaa_mbb
+91,s:40~l:41~t:91,,Bellarmine,Knights,Bellarmine Knights,Bellarmine,BELL,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/91.png,ncaa_mbb
+2771,s:40~l:41~t:2771,,Merrimack,Warriors,Merrimack Warriors,Merrimack,MRMK,2f4f93,e8c535,https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png,ncaa_mbb
+151,s:40~l:41~t:151,,East Carolina,Pirates,East Carolina Pirates,East Carolina,ECU,582c83,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/151.png,ncaa_mbb
+28,s:40~l:41~t:28,,UC San Diego,Tritons,UC San Diego Tritons,UC San Diego,UCSD,000000,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/28.png,ncaa_mbb
+2501,s:40~l:41~t:2501,,Portland,Pilots,Portland Pilots,Portland,PORT,330072,a8b3ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2501.png,ncaa_mbb
+2450,s:40~l:41~t:2450,,Norfolk State,Spartans,Norfolk State Spartans,Norfolk St,NORF,0c8968,fdb813,https://a.espncdn.com/i/teamlogos/ncaa/500/2450.png,ncaa_mbb
+2000,s:40~l:41~t:2000,,Abilene Christian,Wildcats,Abilene Christian Wildcats,Abilene Chrstn,ACU,592d82,b1b3b3,https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png,ncaa_mbb
+253,s:40~l:41~t:253,,Southern Utah,Thunderbirds,Southern Utah Thunderbirds,Southern Utah,SUU,c72026,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/253.png,ncaa_mbb
+250,s:40~l:41~t:250,,UT Arlington,Mavericks,UT Arlington Mavericks,UT Arlington,UTA,004b7c,f58024,https://a.espncdn.com/i/teamlogos/ncaa/500/250.png,ncaa_mbb
+3101,s:40~l:41~t:3101,,Utah Tech,Trailblazers,Utah Tech Trailblazers,Utah Tech,UTU,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png,ncaa_mbb
+3084,s:40~l:41~t:3084,,Utah Valley,Wolverines,Utah Valley Wolverines,Utah Valley,UVU,004812,e1c736,https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png,ncaa_mbb
+202,s:40~l:41~t:202,,Tulsa,Golden Hurricane,Tulsa Golden Hurricane,Tulsa,TLSA,003595,d0b787,https://a.espncdn.com/i/teamlogos/ncaa/500/202.png,ncaa_mbb
+2627,s:40~l:41~t:2627,,Tarleton State,Texans,Tarleton State Texans,Tarleton St,TAR,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2627.png,ncaa_mbb
+111,s:40~l:41~t:111,,Northeastern,Huskies,Northeastern Huskies,Northeastern,NE,CC0001,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/111.png,ncaa_mbb
+225,s:40~l:41~t:225,,Brown,Bears,Brown Bears,Brown,BRWN,411e09,949300,https://a.espncdn.com/i/teamlogos/ncaa/500/225.png,ncaa_mbb
+44,s:40~l:41~t:44,,American University,Eagles,American University Eagles,American,AMER,c41130,c8102e,https://a.espncdn.com/i/teamlogos/ncaa/500/44.png,ncaa_mbb
+62,s:40~l:41~t:62,,Hawai'i,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i,HAW,005737,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/62.png,ncaa_mbb
+2751,s:40~l:41~t:2751,,Wyoming,Cowboys,Wyoming Cowboys,Wyoming,WYO,492f24,ffc425,https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png,ncaa_mbb
+2174,s:40~l:41~t:2174,,Detroit Mercy,Titans,Detroit Mercy Titans,Detroit Mercy,DETM,165b9e,d31733,https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png,ncaa_mbb
+2181,s:40~l:41~t:2181,,Drake,Bulldogs,Drake Bulldogs,Drake,DRKE,005596,bec0c2,https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png,ncaa_mbb
+231,s:40~l:41~t:231,,Furman,Paladins,Furman Paladins,Furman,FUR,582c83,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/231.png,ncaa_mbb
+2453,s:40~l:41~t:2453,,North Alabama,Lions,North Alabama Lions,North Alabama,UNA,663399,,https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png,ncaa_mbb
+2643,s:40~l:41~t:2643,,The Citadel,Bulldogs,The Citadel Bulldogs,The Citadel,CIT,7badd3,002856,https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png,ncaa_mbb
+194,s:40~l:41~t:194,,Ohio State,Buckeyes,Ohio State Buckeyes,Ohio State,OSU,ba0c2f,a8adb4,https://a.espncdn.com/i/teamlogos/ncaa/500/194.png,ncaa_mbb
+2046,s:40~l:41~t:2046,,Austin Peay,Governors,Austin Peay Governors,Austin Peay,APSU,8e0b0b,,https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png,ncaa_mbb
+2934,s:40~l:41~t:2934,,Cal State Bakersfield,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield,CSUB,003BAB,,https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png,ncaa_mbb
+201,s:40~l:41~t:201,,Oklahoma,Sooners,Oklahoma Sooners,Oklahoma,OU,990000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/201.png,ncaa_mbb
+314,s:40~l:41~t:314,,Iona,Gaels,Iona Gaels,Iona,IONA,6f2c3e,f0ab00,https://a.espncdn.com/i/teamlogos/ncaa/500/314.png,ncaa_mbb
+2916,s:40~l:41~t:2916,,Incarnate Word,Cardinals,Incarnate Word Cardinals,Incarnate Word,UIW,000000,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png,ncaa_mbb
+2230,s:40~l:41~t:2230,,Fordham,Rams,Fordham Rams,Fordham,FOR,830032,909090,https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png,ncaa_mbb
+2459,s:40~l:41~t:2459,,Northern Illinois,Huskies,Northern Illinois Huskies,N Illinois,NIU,c8102e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png,ncaa_mbb
+322,s:40~l:41~t:322,,Lafayette,Leopards,Lafayette Leopards,Lafayette,LAF,790000,a59474,https://a.espncdn.com/i/teamlogos/ncaa/500/322.png,ncaa_mbb
+2635,s:40~l:41~t:2635,,Tennessee Tech,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech,TNTC,5A4099,ffde00,https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png,ncaa_mbb
+2870,s:40~l:41~t:2870,,Purdue Fort Wayne,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW,PFW,cfb991,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png,ncaa_mbb
+160,s:40~l:41~t:160,,New Hampshire,Wildcats,New Hampshire Wildcats,New Hampshire,UNH,004990,c3c4c6,https://a.espncdn.com/i/teamlogos/ncaa/500/160.png,ncaa_mbb
+58,s:40~l:41~t:58,,South Florida,Bulls,South Florida Bulls,South Florida,USF,006747,cfc493,https://a.espncdn.com/i/teamlogos/ncaa/500/58.png,ncaa_mbb
+282,s:40~l:41~t:282,,Indiana State,Sycamores,Indiana State Sycamores,Indiana St,INST,00669a,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/282.png,ncaa_mbb
+2729,s:40~l:41~t:2729,,William & Mary,Tribe,William & Mary Tribe,William & Mary,W&M,115740,f0b323,https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png,ncaa_mbb
+2674,s:40~l:41~t:2674,,Valparaiso,Beacons,Valparaiso Beacons,Valparaiso,VAL,794500,,https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png,ncaa_mbb
+239,s:40~l:41~t:239,,Baylor,Bears,Baylor Bears,Baylor,BAY,154734,ffb81c,https://a.espncdn.com/i/teamlogos/ncaa/500/239.png,ncaa_mbb
+2385,s:40~l:41~t:2385,,Mercyhurst,Lakers,Mercyhurst Lakers,Mercyhurst,MERC,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2385.png,ncaa_mbb
+526,s:40~l:41~t:526,,Florida Gulf Coast,Eagles,Florida Gulf Coast Eagles,FGCU,FGCU,00885a,076c3b,https://a.espncdn.com/i/teamlogos/ncaa/500/526.png,ncaa_mbb
+2506,s:40~l:41~t:2506,,Presbyterian,Blue Hose,Presbyterian Blue Hose,Presbyterian,PRES,194896,990134,https://a.espncdn.com/i/teamlogos/ncaa/500/2506.png,ncaa_mbb
+2649,s:40~l:41~t:2649,,Toledo,Rockets,Toledo Rockets,Toledo,TOL,0b2240,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png,ncaa_mbb
+2083,s:40~l:41~t:2083,,Bucknell,Bison,Bucknell Bison,Bucknell,BUCK,000060,00316e,https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png,ncaa_mbb
+2837,s:40~l:41~t:2837,,East Texas A&M,Lions,East Texas A&M Lions,East Texas A&M,ETAM,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png,ncaa_mbb
+2540,s:40~l:41~t:2540,,UC Santa Barbara,Gauchos,UC Santa Barbara Gauchos,Santa Barbara,UCSB,1e1840,febc11,https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png,ncaa_mbb
+2393,s:40~l:41~t:2393,,Middle Tennessee,Blue Raiders,Middle Tennessee Blue Raiders,MTSU,MTSU,036eb7,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png,ncaa_mbb
+55,s:40~l:41~t:55,,Jacksonville State,Gamecocks,Jacksonville State Gamecocks,Jax State,JXST,cc0000,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/55.png,ncaa_mbb
+2710,s:40~l:41~t:2710,,Western Illinois,Leathernecks,Western Illinois Leathernecks,W Illinois,WIU,4e1e8a,ffc90a,https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png,ncaa_mbb
+47,s:40~l:41~t:47,,Howard,Bison,Howard Bison,Howard,HOW,003a63,e51937,https://a.espncdn.com/i/teamlogos/ncaa/500/47.png,ncaa_mbb
+94,s:40~l:41~t:94,,Northern Kentucky,Norse,Northern Kentucky Norse,N Kentucky,NKU,ffc82e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/94.png,ncaa_mbb
+166,s:40~l:41~t:166,,New Mexico State,Aggies,New Mexico State Aggies,New Mexico St,NMSU,7e141b,231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/166.png,ncaa_mbb
+2084,s:40~l:41~t:2084,,Buffalo,Bulls,Buffalo Bulls,Buffalo,BUF,005bbb,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png,ncaa_mbb
+85,s:40~l:41~t:85,,IU Indianapolis,Jaguars,IU Indianapolis Jaguars,IU Indy,IUIN,A81F30,d59f0f,https://a.espncdn.com/i/teamlogos/ncaa/500/85.png,ncaa_mbb
+294,s:40~l:41~t:294,,Jacksonville,Dolphins,Jacksonville Dolphins,Jacksonville,JAX,00523e,,https://a.espncdn.com/i/teamlogos/ncaa/500/294.png,ncaa_mbb
+2523,s:40~l:41~t:2523,,Robert Morris,Colonials,Robert Morris Colonials,Robert Morris,RMU,00214D,a21d2b,https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png,ncaa_mbb
+2378,s:40~l:41~t:2378,,UMBC,Retrievers,UMBC Retrievers,UMBC,UMBC,000000,ad860a,https://a.espncdn.com/i/teamlogos/ncaa/500/2378.png,ncaa_mbb
+13,s:40~l:41~t:13,,Cal Poly,Mustangs,Cal Poly Mustangs,Cal Poly,CP,1E4D2B,eed897,https://a.espncdn.com/i/teamlogos/ncaa/500/13.png,ncaa_mbb
+155,s:40~l:41~t:155,,North Dakota,Fighting Hawks,North Dakota Fighting Hawks,North Dakota,UND,00A26B,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/155.png,ncaa_mbb
+236,s:40~l:41~t:236,,Chattanooga,Mocs,Chattanooga Mocs,Chattanooga,UTC,00386b,dca71d,https://a.espncdn.com/i/teamlogos/ncaa/500/236.png,ncaa_mbb
+2127,s:40~l:41~t:2127,,Charleston Southern,Buccaneers,Charleston Southern Buccaneers,Charleston So,CHSO,2e3192,ded090,https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png,ncaa_mbb
+2678,s:40~l:41~t:2678,,VMI,Keydets,VMI Keydets,VMI,VMI,ae122a,ffd619,https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png,ncaa_mbb
+2363,s:40~l:41~t:2363,,Manhattan,Jaspers,Manhattan Jaspers,Manhattan,MAN,4f8537,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png,ncaa_mbb
+2908,s:40~l:41~t:2908,,South Carolina Upstate,Spartans,South Carolina Upstate Spartans,SC Upstate,UPST,008545,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2908.png,ncaa_mbb
+284,s:40~l:41~t:284,,Stonehill,Skyhawks,Stonehill Skyhawks,Stonehill,STO,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/284.png,ncaa_mbb
+2711,s:40~l:41~t:2711,,Western Michigan,Broncos,Western Michigan Broncos,W Michigan,WMU,532e1f,f1c500,https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png,ncaa_mbb
+2529,s:40~l:41~t:2529,,Sacred Heart,Pioneers,Sacred Heart Pioneers,Sacred Heart,SHU,a40012,c29472,https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png,ncaa_mbb
+2368,s:40~l:41~t:2368,,Marist,Red Foxes,Marist Red Foxes,Marist,MRST,e53730,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png,ncaa_mbb
+2514,s:40~l:41~t:2514,,Quinnipiac,Bobcats,Quinnipiac Bobcats,Quinnipiac,QUIN,041B43,,https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png,ncaa_mbb
+2241,s:40~l:41~t:2241,,Gardner-Webb,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb,GWEB,c12535,909090,https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png,ncaa_mbb
+338,s:40~l:41~t:338,,Kennesaw State,Owls,Kennesaw State Owls,Kennesaw St,KENN,fdbb30,0b1315,https://a.espncdn.com/i/teamlogos/ncaa/500/338.png,ncaa_mbb
+299,s:40~l:41~t:299,,Long Beach State,Beach,Long Beach State Beach,Long Beach St,LBSU,000000,f1f2f3,https://a.espncdn.com/i/teamlogos/ncaa/500/299.png,ncaa_mbb
+139,s:40~l:41~t:139,,Saint Louis,Billikens,Saint Louis Billikens,Saint Louis,SLU,00539C,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/139.png,ncaa_mbb
+2166,s:40~l:41~t:2166,,Davidson,Wildcats,Davidson Wildcats,Davidson,DAV,000000,e51837,https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png,ncaa_mbb
+399,s:40~l:41~t:399,,UAlbany,Great Danes,UAlbany Great Danes,UAlbany,UALB,3D2777,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/399.png,ncaa_mbb
+16,s:40~l:41~t:16,,Sacramento State,Hornets,Sacramento State Hornets,Sacramento St,SAC,00573C,cdb97d,https://a.espncdn.com/i/teamlogos/ncaa/500/16.png,ncaa_mbb
+300,s:40~l:41~t:300,,UC Irvine,Anteaters,UC Irvine Anteaters,UC Irvine,UCI,002B5C,fec52e,https://a.espncdn.com/i/teamlogos/ncaa/500/300.png,ncaa_mbb
+2050,s:40~l:41~t:2050,,Ball State,Cardinals,Ball State Cardinals,Ball State,BALL,ba0c2f,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png,ncaa_mbb
+325,s:40~l:41~t:325,,Cleveland State,Vikings,Cleveland State Vikings,Cleveland St,CLE,006633,231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/325.png,ncaa_mbb
+2634,s:40~l:41~t:2634,,Tennessee State,Tigers,Tennessee State Tigers,Tennessee St,TNST,171796,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png,ncaa_mbb
+2065,s:40~l:41~t:2065,,Bethune-Cookman,Wildcats,Bethune-Cookman Wildcats,Bethune,BCU,7b1831,e9aa12,https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png,ncaa_mbb
+339,s:40~l:41~t:339,,Evansville,Purple Aces,Evansville Purple Aces,Evansville,EVAN,663399,ef6f00,https://a.espncdn.com/i/teamlogos/ncaa/500/339.png,ncaa_mbb
+2261,s:40~l:41~t:2261,,Hampton,Pirates,Hampton Pirates,Hampton,HAMP,0067AC,,https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png,ncaa_mbb
+119,s:40~l:41~t:119,,Towson,Tigers,Towson Tigers,Towson,TOW,FFC229,,https://a.espncdn.com/i/teamlogos/ncaa/500/119.png,ncaa_mbb
+2623,s:40~l:41~t:2623,,Missouri State,Bears,Missouri State Bears,Missouri St,MOST,5e0009,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png,ncaa_mbb
+2320,s:40~l:41~t:2320,,Lamar,Cardinals,Lamar Cardinals,Lamar,LAM,000000,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2320.png,ncaa_mbb
+2172,s:40~l:41~t:2172,,Denver,Pioneers,Denver Pioneers,Denver,DEN,98002e,a8996e,https://a.espncdn.com/i/teamlogos/ncaa/500/2172.png,ncaa_mbb
+161,s:40~l:41~t:161,,Fairleigh Dickinson,Knights,Fairleigh Dickinson Knights,FDU,FDU,72293c,28334a,https://a.espncdn.com/i/teamlogos/ncaa/500/161.png,ncaa_mbb
+107,s:40~l:41~t:107,,Holy Cross,Crusaders,Holy Cross Crusaders,Holy Cross,HC,582c83,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/107.png,ncaa_mbb
+2546,s:40~l:41~t:2546,,Southeast Missouri State,Redhawks,Southeast Missouri State Redhawks,SE Missouri,SEMO,c8102e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png,ncaa_mbb
+2535,s:40~l:41~t:2535,,Samford,Bulldogs,Samford Bulldogs,Samford,SAM,005485,bc0023,https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png,ncaa_mbb
+2433,s:40~l:41~t:2433,,UL Monroe,Warhawks,UL Monroe Warhawks,UL Monroe,ULM,840029,fdb913,https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png,ncaa_mbb
+2239,s:40~l:41~t:2239,,Cal State Fullerton,Titans,Cal State Fullerton Titans,Fullerton,CSUF,003767,ff8300,https://a.espncdn.com/i/teamlogos/ncaa/500/2239.png,ncaa_mbb
+2229,s:40~l:41~t:2229,,Florida International,Panthers,Florida International Panthers,FIU,FIU,091f3f,c3993f,https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png,ncaa_mbb
+2377,s:40~l:41~t:2377,,McNeese,Cowboys,McNeese Cowboys,McNeese,MCN,00529C,ffd204,https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png,ncaa_mbb
+2066,s:40~l:41~t:2066,,Binghamton,Bearcats,Binghamton Bearcats,Binghamton,BING,00614A,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2066.png,ncaa_mbb
+261,s:40~l:41~t:261,,Vermont,Catamounts,Vermont Catamounts,Vermont,UVM,154734,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/261.png,ncaa_mbb
+2698,s:40~l:41~t:2698,,West Georgia,Wolves,West Georgia Wolves,West Georgia,WGA,0033a1,db1a21,https://a.espncdn.com/i/teamlogos/ncaa/500/2698.png,ncaa_mbb
+2217,s:40~l:41~t:2217,,Fairfield,Stags,Fairfield Stags,Fairfield,FAIR,000000,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png,ncaa_mbb
+112358,s:40~l:41~t:112358,,Long Island University,Sharks,Long Island University Sharks,Long Island,LIU,50c9f7,ffbf00,https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png,ncaa_mbb
+2619,s:40~l:41~t:2619,,Stony Brook,Seawolves,Stony Brook Seawolves,Stony Brook,STBK,990000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png,ncaa_mbb
+2413,s:40~l:41~t:2413,,Morehead State,Eagles,Morehead State Eagles,Morehead St,MORE,094FA3,fed91a,https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png,ncaa_mbb
+93,s:40~l:41~t:93,,Murray State,Racers,Murray State Racers,Murray St,MUR,002148,000e00,https://a.espncdn.com/i/teamlogos/ncaa/500/93.png,ncaa_mbb
+2448,s:40~l:41~t:2448,,North Carolina A&T,Aggies,North Carolina A&T Aggies,NC A&T,NCAT,0505aa,004684,https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png,ncaa_mbb
+2750,s:40~l:41~t:2750,,Wright State,Raiders,Wright State Raiders,Wright St,WRST,cba052,cba052,https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png,ncaa_mbb
+357,s:40~l:41~t:357,,Texas A&M-Corpus Christi,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC,AMCC,0067c5,007f3e,https://a.espncdn.com/i/teamlogos/ncaa/500/357.png,ncaa_mbb
+2473,s:40~l:41~t:2473,,Oakland,Golden Grizzlies,Oakland Golden Grizzlies,Oakland,OAK,04091c,bc955c,https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png,ncaa_mbb
+2309,s:40~l:41~t:2309,,Kent State,Golden Flashes,Kent State Golden Flashes,Kent State,KENT,002664,eaab00,https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png,ncaa_mbb
+2110,s:40~l:41~t:2110,,Central Arkansas,Bears,Central Arkansas Bears,C Arkansas,CARK,a7a9ac,8e959a,https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png,ncaa_mbb
+2617,s:40~l:41~t:2617,,Stephen F. Austin,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin,SFA,393996,bec0c2,https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png,ncaa_mbb
+270,s:40~l:41~t:270,,Milwaukee,Panthers,Milwaukee Panthers,Milwaukee,MILW,000000,ffc20e,https://a.espncdn.com/i/teamlogos/ncaa/500/270.png,ncaa_mbb
+2277,s:40~l:41~t:2277,,Houston Christian,Huskies,Houston Christian Huskies,Hou Christian,HCU,00539c,,https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png,ncaa_mbb
+2464,s:40~l:41~t:2464,,Northern Arizona,Lumberjacks,Northern Arizona Lumberjacks,N Arizona,NAU,003976,1b3069,https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png,ncaa_mbb
+2692,s:40~l:41~t:2692,,Weber State,Wildcats,Weber State Wildcats,Weber St,WEB,18005a,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png,ncaa_mbb
+2006,s:40~l:41~t:2006,,Akron,Zips,Akron Zips,Akron,AKR,041e42,c5b783,https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png,ncaa_mbb
+2011,s:40~l:41~t:2011,,Alabama State,Hornets,Alabama State Hornets,Alabama St,ALST,e9a900,0a0a0a,https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png,ncaa_mbb
+2010,s:40~l:41~t:2010,,Alabama A&M,Bulldogs,Alabama A&M Bulldogs,Alabama A&M,AAMU,790000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png,ncaa_mbb
+2466,s:40~l:41~t:2466,,Northwestern State,Demons,Northwestern State Demons,N'Western St,NWST,492F91,ed6118,https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png,ncaa_mbb
+2747,s:40~l:41~t:2747,,Wofford,Terriers,Wofford Terriers,Wofford,WOF,533B22,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2747.png,ncaa_mbb
+2754,s:40~l:41~t:2754,,Youngstown State,Penguins,Youngstown State Penguins,Youngstown St,YSU,E51935,690717,https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png,ncaa_mbb
+2458,s:40~l:41~t:2458,,Northern Colorado,Bears,Northern Colorado Bears,N Colorado,UNCO,13558D,ffc533,https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png,ncaa_mbb
+2502,s:40~l:41~t:2502,,Portland State,Vikings,Portland State Vikings,Portland St,PRST,00311e,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png,ncaa_mbb
+140,s:40~l:41~t:140,,Kansas City,Roos,Kansas City Roos,Kansas City,KC,004b87,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/140.png,ncaa_mbb
+116,s:40~l:41~t:116,,Mount St. Mary's,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys,MSM,005596,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/116.png,ncaa_mbb
+147,s:40~l:41~t:147,,Montana State,Bobcats,Montana State Bobcats,Montana St,MTST,00205c,bc955c,https://a.espncdn.com/i/teamlogos/ncaa/500/147.png,ncaa_mbb
+149,s:40~l:41~t:149,,Montana,Grizzlies,Montana Grizzlies,Montana,MONT,751D4A,666666,https://a.espncdn.com/i/teamlogos/ncaa/500/149.png,ncaa_mbb
+2115,s:40~l:41~t:2115,,Central Connecticut,Blue Devils,Central Connecticut Blue Devils,C Connecticut,CCSU,1B49A2,d1d5d8,https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png,ncaa_mbb
+27,s:40~l:41~t:27,,UC Riverside,Highlanders,UC Riverside Highlanders,UC Riverside,UCR,14234F,,https://a.espncdn.com/i/teamlogos/ncaa/500/27.png,ncaa_mbb
+311,s:40~l:41~t:311,,Maine,Black Bears,Maine Black Bears,Maine,ME,127dbe,,https://a.espncdn.com/i/teamlogos/ncaa/500/311.png,ncaa_mbb
+292,s:40~l:41~t:292,,UT Rio Grande Valley,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande,RGV,dc6000,e1732d,https://a.espncdn.com/i/teamlogos/ncaa/500/292.png,ncaa_mbb
+302,s:40~l:41~t:302,,UC Davis,Aggies,UC Davis Aggies,UC Davis,UCD,002855,c3c4c6,https://a.espncdn.com/i/teamlogos/ncaa/500/302.png,ncaa_mbb
+2463,s:40~l:41~t:2463,,Cal State Northridge,Matadors,Cal State Northridge Matadors,CSU Northridge,CSUN,b50000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2463.png,ncaa_mbb
+2348,s:40~l:41~t:2348,,Louisiana Tech,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech,LT,003087,cb333b,https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png,ncaa_mbb
+2638,s:40~l:41~t:2638,,UTEP,Miners,UTEP Miners,UTEP,UTEP,ff8200,041e42,https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png,ncaa_mbb
+2382,s:40~l:41~t:2382,,Mercer,Bears,Mercer Bears,Mercer,MER,ff7f29,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png,ncaa_mbb
+2031,s:40~l:41~t:2031,,Little Rock,Trojans,Little Rock Trojans,Little Rock,LR,AD0000,898d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2031.png,ncaa_mbb
+2197,s:40~l:41~t:2197,,Eastern Illinois,Panthers,Eastern Illinois Panthers,E Illinois,EIU,000000,bebab9,https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png,ncaa_mbb
+2210,s:40~l:41~t:2210,,Elon,Phoenix,Elon Phoenix,Elon,ELON,020303,b59a57,https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png,ncaa_mbb
+2565,s:40~l:41~t:2565,,SIU Edwardsville,Cougars,SIU Edwardsville Cougars,SIUE,SIUE,eb1c23,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png,ncaa_mbb
+2520,s:40~l:41~t:2520,,Rider,Broncs,Rider Broncs,Rider,RID,a80532,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png,ncaa_mbb
+2199,s:40~l:41~t:2199,,Eastern Michigan,Eagles,Eastern Michigan Eagles,E Michigan,EMU,006938,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png,ncaa_mbb
+2534,s:40~l:41~t:2534,,Sam Houston,Bearkats,Sam Houston Bearkats,Sam Houston,SHSU,f56423,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png,ncaa_mbb
+2329,s:40~l:41~t:2329,,Lehigh,Mountain Hawks,Lehigh Mountain Hawks,Lehigh,LEH,6c2b2a,b69e70,https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png,ncaa_mbb
+2437,s:40~l:41~t:2437,,Omaha,Mavericks,Omaha Mavericks,Omaha,OMA,e3193e,474648,https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png,ncaa_mbb
+315,s:40~l:41~t:315,,Niagara,Purple Eagles,Niagara Purple Eagles,Niagara,NIA,69207E,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/315.png,ncaa_mbb
+2640,s:40~l:41~t:2640,,Texas Southern,Tigers,Texas Southern Tigers,Texas Southern,TXSO,860038,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png,ncaa_mbb
+198,s:40~l:41~t:198,,Oral Roberts,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts,ORU,002462,dac792,https://a.espncdn.com/i/teamlogos/ncaa/500/198.png,ncaa_mbb
+2900,s:40~l:41~t:2900,,St. Thomas,Tommies,St. Thomas Tommies,St Thomas,STMN,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png,ncaa_mbb
+50,s:40~l:41~t:50,,Florida A&M,Rattlers,Florida A&M Rattlers,Florida A&M,FAMU,F89728,00843d,https://a.espncdn.com/i/teamlogos/ncaa/500/50.png,ncaa_mbb
+2142,s:40~l:41~t:2142,,Colgate,Raiders,Colgate Raiders,Colgate,COLG,821019,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png,ncaa_mbb
+2717,s:40~l:41~t:2717,,Western Carolina,Catamounts,Western Carolina Catamounts,W Carolina,WCU,492F91,bf9e70,https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png,ncaa_mbb
+2681,s:40~l:41~t:2681,,Wagner,Seahawks,Wagner Seahawks,Wagner,WAG,00483A,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png,ncaa_mbb
+2097,s:40~l:41~t:2097,,Campbell,Fighting Camels,Campbell Fighting Camels,Campbell,CAM,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png,ncaa_mbb
+2569,s:40~l:41~t:2569,,South Carolina State,Bulldogs,South Carolina State Bulldogs,SC State,SCST,7d1315,104897,https://a.espncdn.com/i/teamlogos/ncaa/500/2569.png,ncaa_mbb
+2612,s:40~l:41~t:2612,,Saint Peter's,Peacocks,Saint Peter's Peacocks,Saint Peter's,SPU,004CC2,,https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png,ncaa_mbb
+304,s:40~l:41~t:304,,Idaho State,Bengals,Idaho State Bengals,Idaho St,IDST,ef8c00,e9a126,https://a.espncdn.com/i/teamlogos/ncaa/500/304.png,ncaa_mbb
+2169,s:40~l:41~t:2169,,Delaware State,Hornets,Delaware State Hornets,Delaware St,DSU,009cdb,d51c28,https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png,ncaa_mbb
+2029,s:40~l:41~t:2029,,Arkansas-Pine Bluff,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff,UAPB,e0aa0f,eaaa00,https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png,ncaa_mbb
+2379,s:40~l:41~t:2379,,Maryland Eastern Shore,Hawks,Maryland Eastern Shore Hawks,MD Eastern,UMES,5c2301,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2379.png,ncaa_mbb
+2427,s:40~l:41~t:2427,,UNC Asheville,Bulldogs,UNC Asheville Bulldogs,UNC Asheville,UNCA,003da5,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2427.png,ncaa_mbb
+2198,s:40~l:41~t:2198,,Eastern Kentucky,Colonels,Eastern Kentucky Colonels,E Kentucky,EKU,660819,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png,ncaa_mbb
+2755,s:40~l:41~t:2755,,Grambling,Tigers,Grambling Tigers,Grambling,GRAM,ee8601,ffd10a,https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png,ncaa_mbb
+2296,s:40~l:41~t:2296,,Jackson State,Tigers,Jackson State Tigers,Jackson St,JKST,123297,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png,ncaa_mbb
+2630,s:40~l:41~t:2630,,UT Martin,Skyhawks,UT Martin Skyhawks,UT Martin,UTM,FF6700,102a5c,https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png,ncaa_mbb
+2545,s:40~l:41~t:2545,,SE Louisiana,Lions,SE Louisiana Lions,SE Louisiana,SELA,215732,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png,ncaa_mbb
+2016,s:40~l:41~t:2016,,Alcorn State,Braves,Alcorn State Braves,Alcorn St,ALCN,4b0058,46166a,https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png,ncaa_mbb
+2504,s:40~l:41~t:2504,,Prairie View A&M,Panthers,Prairie View A&M Panthers,Prairie View,PV,582c83,eaaa00,https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png,ncaa_mbb
+2582,s:40~l:41~t:2582,,Southern,Jaguars,Southern Jaguars,Southern,SOU,004B97,ffc82d,https://a.espncdn.com/i/teamlogos/ncaa/500/2582.png,ncaa_mbb
+2400,s:40~l:41~t:2400,,Mississippi Valley State,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St,MVSU,005328,cf2d34,https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png,ncaa_mbb
+2441,s:40~l:41~t:2441,,New Haven,Chargers,New Haven Chargers,New Haven,NHVN,041e42,ffc425,https://a.espncdn.com/i/teamlogos/ncaa/500/2441.png,ncaa_mbb
+2697,s:40~l:41~t:2697,,West Florida,Argonauts,West Florida Argonauts,West Florida,UWF,087dc2,03b186,https://a.espncdn.com/i/teamlogos/ncaa/500/2697.png,ncaa_mbb
+333,s:40~l:54~t:333,,Alabama,Crimson Tide,Alabama Crimson Tide,Alabama,ALA,9e1b32,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png,ncaa_wbb
+2348,s:40~l:54~t:2348,,Louisiana Tech,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech,LT,003087,cb333b,https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png,ncaa_wbb
+57,s:40~l:54~t:57,,Florida,Gators,Florida Gators,Florida,FLA,0021a5,fa4616,https://a.espncdn.com/i/teamlogos/ncaa/500/57.png,ncaa_wbb
+25,s:40~l:54~t:25,,California,Golden Bears,California Golden Bears,California,CAL,041e42,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png,ncaa_wbb
+150,s:40~l:54~t:150,,Duke,Blue Devils,Duke Blue Devils,Duke,DUKE,00539b,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/150.png,ncaa_wbb
+52,s:40~l:54~t:52,,Florida State,Seminoles,Florida State Seminoles,Florida St,FSU,782f40,ceb888,https://a.espncdn.com/i/teamlogos/ncaa/500/52.png,ncaa_wbb
+66,s:40~l:54~t:66,,Iowa State,Cyclones,Iowa State Cyclones,Iowa State,ISU,ae192d,ffc72a,https://a.espncdn.com/i/teamlogos/ncaa/500/66.png,ncaa_wbb
+103,s:40~l:54~t:103,,Boston College,Eagles,Boston College Eagles,Boston College,BC,8c2232,dbcca6,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png,ncaa_wbb
+59,s:40~l:54~t:59,,Georgia Tech,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech,GT,b3a369,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/59.png,ncaa_wbb
+2390,s:40~l:54~t:2390,,Miami,Hurricanes,Miami Hurricanes,Miami,MIA,f47423,035131,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png,ncaa_wbb
+153,s:40~l:54~t:153,,North Carolina,Tar Heels,North Carolina Tar Heels,North Carolina,UNC,7bafd4,13294b,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png,ncaa_wbb
+2567,s:40~l:54~t:2567,,SMU,Mustangs,SMU Mustangs,SMU,SMU,a80000,0033a1,https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png,ncaa_wbb
+258,s:40~l:54~t:258,,Virginia,Cavaliers,Virginia Cavaliers,Virginia,UVA,232d4b,f84c1e,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png,ncaa_wbb
+2599,s:40~l:54~t:2599,,St. John's,Red Storm,St. John's Red Storm,St John's,SJU,d10000,101010,https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png,ncaa_wbb
+84,s:40~l:54~t:84,,Indiana,Hoosiers,Indiana Hoosiers,Indiana,IU,970310,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png,ncaa_wbb
+2579,s:40~l:54~t:2579,,South Carolina,Gamecocks,South Carolina Gamecocks,South Carolina,SC,73000a,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png,ncaa_wbb
+158,s:40~l:54~t:158,,Nebraska,Cornhuskers,Nebraska Cornhuskers,Nebraska,NEB,e31937,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png,ncaa_wbb
+2483,s:40~l:54~t:2483,,Oregon,Ducks,Oregon Ducks,Oregon,ORE,00934b,fff41b,https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png,ncaa_wbb
+213,s:40~l:54~t:213,,Penn State,Lady Lions,Penn State Lady Lions,Penn State,PSU,061440,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/213.png,ncaa_wbb
+164,s:40~l:54~t:164,,Rutgers,Scarlet Knights,Rutgers Scarlet Knights,Rutgers,RUTG,ce0e2d,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/164.png,ncaa_wbb
+61,s:40~l:54~t:61,,Georgia,Lady Bulldogs,Georgia Lady Bulldogs,Georgia,UGA,ba0c2f,2c2a29,https://a.espncdn.com/i/teamlogos/ncaa/500/61.png,ncaa_wbb
+96,s:40~l:54~t:96,,Kentucky,Wildcats,Kentucky Wildcats,Kentucky,UK,0033a0,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png,ncaa_wbb
+99,s:40~l:54~t:99,,LSU,Tigers,LSU Tigers,LSU,LSU,461d76,fdd023,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png,ncaa_wbb
+261,s:40~l:54~t:261,,Vermont,Catamounts,Vermont Catamounts,Vermont,UVM,154734,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/261.png,ncaa_wbb
+245,s:40~l:54~t:245,,Texas A&M,Aggies,Texas A&M Aggies,Texas A&M,TA&M,500000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/245.png,ncaa_wbb
+238,s:40~l:54~t:238,,Vanderbilt,Commodores,Vanderbilt Commodores,Vanderbilt,VAN,000000,cfae70,https://a.espncdn.com/i/teamlogos/ncaa/500/238.png,ncaa_wbb
+311,s:40~l:54~t:311,,Maine,Black Bears,Maine Black Bears,Maine,ME,127dbe,,https://a.espncdn.com/i/teamlogos/ncaa/500/311.png,ncaa_wbb
+227,s:40~l:54~t:227,,Rhode Island,Rams,Rhode Island Rams,Rhode Island,URI,091f3f,5ab3e8,https://a.espncdn.com/i/teamlogos/ncaa/500/227.png,ncaa_wbb
+2630,s:40~l:54~t:2630,,UT Martin,Skyhawks,UT Martin Skyhawks,UT Martin,UTM,FF6700,102a5c,https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png,ncaa_wbb
+154,s:40~l:54~t:154,,Wake Forest,Demon Deacons,Wake Forest Demon Deacons,Wake Forest,WAKE,ceb888,2c2a29,https://a.espncdn.com/i/teamlogos/ncaa/500/154.png,ncaa_wbb
+249,s:40~l:54~t:249,,North Texas,Mean Green,North Texas Mean Green,North Texas,UNT,068f33,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/249.png,ncaa_wbb
+242,s:40~l:54~t:242,,Rice,Owls,Rice Owls,Rice,RICE,00205b,c1c6c8,https://a.espncdn.com/i/teamlogos/ncaa/500/242.png,ncaa_wbb
+58,s:40~l:54~t:58,,South Florida,Bulls,South Florida Bulls,South Florida,USF,006747,cfc493,https://a.espncdn.com/i/teamlogos/ncaa/500/58.png,ncaa_wbb
+2306,s:40~l:54~t:2306,,Kansas State,Wildcats,Kansas State Wildcats,Kansas St,KSU,330a57,e2e3e4,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png,ncaa_wbb
+197,s:40~l:54~t:197,,Oklahoma State,Cowgirls,Oklahoma State Cowgirls,Oklahoma St,OKST,fe5c00,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/197.png,ncaa_wbb
+2641,s:40~l:54~t:2641,,Texas Tech,Lady Raiders,Texas Tech Lady Raiders,Texas Tech,TTU,da291c,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png,ncaa_wbb
+254,s:40~l:54~t:254,,Utah,Utes,Utah Utes,Utah,UTAH,be0000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/254.png,ncaa_wbb
+265,s:40~l:54~t:265,,Washington State,Cougars,Washington State Cougars,Washington St,WSU,a60f2d,4d4d4d,https://a.espncdn.com/i/teamlogos/ncaa/500/265.png,ncaa_wbb
+167,s:40~l:54~t:167,,New Mexico,Lobos,New Mexico Lobos,New Mexico,UNM,ba0c2f,a7a8aa,https://a.espncdn.com/i/teamlogos/ncaa/500/167.png,ncaa_wbb
+2429,s:40~l:54~t:2429,,Charlotte,49ers,Charlotte 49ers,Charlotte,CLT,005035,a49665,https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png,ncaa_wbb
+2492,s:40~l:54~t:2492,,Pepperdine,Waves,Pepperdine Waves,Pepperdine,PEPP,003A72,dc762f,https://a.espncdn.com/i/teamlogos/ncaa/500/2492.png,ncaa_wbb
+2900,s:40~l:54~t:2900,,St. Thomas,Tommies,St. Thomas Tommies,St Thomas,STMN,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png,ncaa_wbb
+45,s:40~l:54~t:45,,George Washington,Revolutionaries,George Washington Revolutionaries,G Washington,GW,002843,e8d2a1,https://a.espncdn.com/i/teamlogos/ncaa/500/45.png,ncaa_wbb
+43,s:40~l:54~t:43,,Yale,Bulldogs,Yale Bulldogs,Yale,YALE,004a81,286dc0,https://a.espncdn.com/i/teamlogos/ncaa/500/43.png,ncaa_wbb
+104,s:40~l:54~t:104,,Boston University,Terriers,Boston University Terriers,Boston U,BU,cc0000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/104.png,ncaa_wbb
+259,s:40~l:54~t:259,,Virginia Tech,Hokies,Virginia Tech Hokies,Virginia Tech,VT,6a2c3e,cf4520,https://a.espncdn.com/i/teamlogos/ncaa/500/259.png,ncaa_wbb
+2450,s:40~l:54~t:2450,,Norfolk State,Spartans,Norfolk State Spartans,Norfolk St,NORF,0c8968,fdb813,https://a.espncdn.com/i/teamlogos/ncaa/500/2450.png,ncaa_wbb
+2335,s:40~l:54~t:2335,,Liberty,Flames,Liberty Flames,Liberty,LIB,0a254e,b72025,https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png,ncaa_wbb
+94,s:40~l:54~t:94,,Northern Kentucky,Norse,Northern Kentucky Norse,N Kentucky,NKU,ffc82e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/94.png,ncaa_wbb
+300,s:40~l:54~t:300,,UC Irvine,Anteaters,UC Irvine Anteaters,UC Irvine,UCI,002B5C,fec52e,https://a.espncdn.com/i/teamlogos/ncaa/500/300.png,ncaa_wbb
+2754,s:40~l:54~t:2754,,Youngstown State,Penguins,Youngstown State Penguins,Youngstown St,YSU,E51937,690717,https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png,ncaa_wbb
+349,s:40~l:54~t:349,,Army,Black Knights,Army Black Knights,Army,ARMY,000000,d3bc8d,https://a.espncdn.com/i/teamlogos/ncaa/500/349.png,ncaa_wbb
+108,s:40~l:54~t:108,,Harvard,Crimson,Harvard Crimson,Harvard,HARV,990000,dbdbdb,https://a.espncdn.com/i/teamlogos/ncaa/500/108.png,ncaa_wbb
+2184,s:40~l:54~t:2184,,Duquesne,Dukes,Duquesne Dukes,Duquesne,DUQ,002D62,b90b2e,https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png,ncaa_wbb
+8,s:40~l:54~t:8,,Arkansas,Razorbacks,Arkansas Razorbacks,Arkansas,ARK,a32136,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png,ncaa_wbb
+107,s:40~l:54~t:107,,Holy Cross,Crusaders,Holy Cross Crusaders,Holy Cross,HC,582c83,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/107.png,ncaa_wbb
+2520,s:40~l:54~t:2520,,Rider,Broncs,Rider Broncs,Rider,RID,a80532,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png,ncaa_wbb
+2275,s:40~l:54~t:2275,,Hofstra,Pride,Hofstra Pride,Hofstra,HOF,003594,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png,ncaa_wbb
+2006,s:40~l:54~t:2006,,Akron,Zips,Akron Zips,Akron,AKR,041e42,c5b783,https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png,ncaa_wbb
+189,s:40~l:54~t:189,,Bowling Green,Falcons,Bowling Green Falcons,Bowling Green,BGSU,fd5000,4f2c1d,https://a.espncdn.com/i/teamlogos/ncaa/500/189.png,ncaa_wbb
+2084,s:40~l:54~t:2084,,Buffalo,Bulls,Buffalo Bulls,Buffalo,BUF,005bbb,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png,ncaa_wbb
+2117,s:40~l:54~t:2117,,Central Michigan,Chippewas,Central Michigan Chippewas,C Michigan,CMU,4c0027,fbab18,https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png,ncaa_wbb
+2199,s:40~l:54~t:2199,,Eastern Michigan,Eagles,Eastern Michigan Eagles,E Michigan,EMU,006938,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png,ncaa_wbb
+2309,s:40~l:54~t:2309,,Kent State,Golden Flashes,Kent State Golden Flashes,Kent State,KENT,002664,eaab00,https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png,ncaa_wbb
+193,s:40~l:54~t:193,,Miami (OH),RedHawks,Miami (OH) RedHawks,Miami OH,M-OH,c41230,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/193.png,ncaa_wbb
+2459,s:40~l:54~t:2459,,Northern Illinois,Huskies,Northern Illinois Huskies,N Illinois,NIU,c8102e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png,ncaa_wbb
+195,s:40~l:54~t:195,,Ohio,Bobcats,Ohio Bobcats,Ohio,OHIO,154734,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/195.png,ncaa_wbb
+2649,s:40~l:54~t:2649,,Toledo,Rockets,Toledo Rockets,Toledo,TOL,0b2240,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png,ncaa_wbb
+2711,s:40~l:54~t:2711,,Western Michigan,Broncos,Western Michigan Broncos,W Michigan,WMU,532e1f,f1c500,https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png,ncaa_wbb
+2449,s:40~l:54~t:2449,,North Dakota State,Bison,North Dakota State Bison,N Dakota St,NDSU,01402A,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png,ncaa_wbb
+282,s:40~l:54~t:282,,Indiana State,Sycamores,Indiana State Sycamores,Indiana St,INST,00669a,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/282.png,ncaa_wbb
+2,s:40~l:54~t:2,,Auburn,Tigers,Auburn Tigers,Auburn,AUB,002b5c,f26522,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png,ncaa_wbb
+328,s:40~l:54~t:328,,Utah State,Aggies,Utah State Aggies,Utah State,USU,0f2439,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/328.png,ncaa_wbb
+24,s:40~l:54~t:24,,Stanford,Cardinal,Stanford Cardinal,Stanford,STAN,8c1515,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/24.png,ncaa_wbb
+135,s:40~l:54~t:135,,Minnesota,Golden Gophers,Minnesota Golden Gophers,Minnesota,MINN,5e0a2f,fab41c,https://a.espncdn.com/i/teamlogos/ncaa/500/135.png,ncaa_wbb
+2142,s:40~l:54~t:2142,,Colgate,Raiders,Colgate Raiders,Colgate,COLG,821019,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png,ncaa_wbb
+228,s:40~l:54~t:228,,Clemson,Tigers,Clemson Tigers,Clemson,CLEM,f56600,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/228.png,ncaa_wbb
+235,s:40~l:54~t:235,,Memphis,Tigers,Memphis Tigers,Memphis,MEM,004991,8e908f,https://a.espncdn.com/i/teamlogos/ncaa/500/235.png,ncaa_wbb
+2382,s:40~l:54~t:2382,,Mercer,Bears,Mercer Bears,Mercer,MER,ff7f29,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png,ncaa_wbb
+233,s:40~l:54~t:233,,South Dakota,Coyotes,South Dakota Coyotes,South Dakota,SDAK,CD1241,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/233.png,ncaa_wbb
+2050,s:40~l:54~t:2050,,Ball State,Cardinals,Ball State Cardinals,Ball State,BALL,ba0c2f,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png,ncaa_wbb
+2253,s:40~l:54~t:2253,,Grand Canyon,Lopes,Grand Canyon Lopes,Grand Canyon,GCU,522398,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2253.png,ncaa_wbb
+264,s:40~l:54~t:264,,Washington,Huskies,Washington Huskies,Washington,WASH,33006f,e8d3a2,https://a.espncdn.com/i/teamlogos/ncaa/500/264.png,ncaa_wbb
+2638,s:40~l:54~t:2638,,UTEP,Miners,UTEP Miners,UTEP,UTEP,ff8200,041e42,https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png,ncaa_wbb
+12,s:40~l:54~t:12,,Arizona,Wildcats,Arizona Wildcats,Arizona,ARIZ,cc0033,003366,https://a.espncdn.com/i/teamlogos/ncaa/500/12.png,ncaa_wbb
+50,s:40~l:54~t:50,,Florida A&M,Rattlers,Florida A&M Rattlers,Florida A&M,FAMU,F89728,00843d,https://a.espncdn.com/i/teamlogos/ncaa/500/50.png,ncaa_wbb
+26,s:40~l:54~t:26,,UCLA,Bruins,UCLA Bruins,UCLA,UCLA,2774ae,f2a900,https://a.espncdn.com/i/teamlogos/ncaa/500/26.png,ncaa_wbb
+2210,s:40~l:54~t:2210,,Elon,Phoenix,Elon Phoenix,Elon,ELON,020303,b59a57,https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png,ncaa_wbb
+30,s:40~l:54~t:30,,USC,Trojans,USC Trojans,USC,USC,9d2235,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/30.png,ncaa_wbb
+2751,s:40~l:54~t:2751,,Wyoming,Cowgirls,Wyoming Cowgirls,Wyoming,WYO,492f24,ffc425,https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png,ncaa_wbb
+218,s:40~l:54~t:218,,Temple,Owls,Temple Owls,Temple,TEM,a41e35,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/218.png,ncaa_wbb
+2241,s:40~l:54~t:2241,,Gardner-Webb,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb,GWEB,c12535,909090,https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png,ncaa_wbb
+2803,s:40~l:54~t:2803,,Bryant,Bulldogs,Bryant Bulldogs,Bryant,BRY,000000,9f8343,https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png,ncaa_wbb
+2378,s:40~l:54~t:2378,,UMBC,Retrievers,UMBC Retrievers,UMBC,UMBC,000000,ad860a,https://a.espncdn.com/i/teamlogos/ncaa/500/2378.png,ncaa_wbb
+171,s:40~l:54~t:171,,Columbia,Lions,Columbia Lions,Columbia,COLU,7ba4db,183863,https://a.espncdn.com/i/teamlogos/ncaa/500/171.png,ncaa_wbb
+9,s:40~l:54~t:9,,Arizona State,Sun Devils,Arizona State Sun Devils,Arizona St,ASU,ffc627,8c1d40,https://a.espncdn.com/i/teamlogos/ncaa/500/9.png,ncaa_wbb
+36,s:40~l:54~t:36,,Colorado State,Rams,Colorado State Rams,Colorado St,CSU,004c23,c8c372,https://a.espncdn.com/i/teamlogos/ncaa/500/36.png,ncaa_wbb
+2439,s:40~l:54~t:2439,,UNLV,Lady Rebels,UNLV Lady Rebels,UNLV,UNLV,cf0a2c,cac8c8,https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png,ncaa_wbb
+2329,s:40~l:54~t:2329,,Lehigh,Mountain Hawks,Lehigh Mountain Hawks,Lehigh,LEH,6c2b2a,b69e70,https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png,ncaa_wbb
+201,s:40~l:54~t:201,,Oklahoma,Sooners,Oklahoma Sooners,Oklahoma,OU,990000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/201.png,ncaa_wbb
+2541,s:40~l:54~t:2541,,Santa Clara,Broncos,Santa Clara Broncos,Santa Clara,SCU,690b0b,101010,https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png,ncaa_wbb
+2617,s:40~l:54~t:2617,,Stephen F. Austin,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin,SFA,393996,bec0c2,https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png,ncaa_wbb
+2569,s:40~l:54~t:2569,,South Carolina State,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State,SCST,7d1315,104897,https://a.espncdn.com/i/teamlogos/ncaa/500/2569.png,ncaa_wbb
+152,s:40~l:54~t:152,,NC State,Wolfpack,NC State Wolfpack,NC State,NCSU,cc0000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png,ncaa_wbb
+2752,s:40~l:54~t:2752,,Xavier,Musketeers,Xavier Musketeers,Xavier,XAV,21304e,a5a7a8,https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png,ncaa_wbb
+275,s:40~l:54~t:275,,Wisconsin,Badgers,Wisconsin Badgers,Wisconsin,WIS,a00000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/275.png,ncaa_wbb
+2633,s:40~l:54~t:2633,,Tennessee,Lady Volunteers,Tennessee Lady Volunteers,Tennessee,TENN,ff8200,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2633_ncw.png,ncaa_wbb
+248,s:40~l:54~t:248,,Houston,Cougars,Houston Cougars,Houston,HOU,c8102e,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/248.png,ncaa_wbb
+2628,s:40~l:54~t:2628,,TCU,Horned Frogs,TCU Horned Frogs,TCU,TCU,4d1979,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png,ncaa_wbb
+277,s:40~l:54~t:277,,West Virginia,Mountaineers,West Virginia Mountaineers,West Virginia,WVU,eaaa00,002855,https://a.espncdn.com/i/teamlogos/ncaa/500/277.png,ncaa_wbb
+2168,s:40~l:54~t:2168,,Dayton,Flyers,Dayton Flyers,Dayton,DAY,004B8D,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png,ncaa_wbb
+127,s:40~l:54~t:127,,Michigan State,Spartans,Michigan State Spartans,Michigan St,MSU,173f35,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/127.png,ncaa_wbb
+221,s:40~l:54~t:221,,Pittsburgh,Panthers,Pittsburgh Panthers,Pitt,PITT,003594,ffb81c,https://a.espncdn.com/i/teamlogos/ncaa/500/221.png,ncaa_wbb
+2116,s:40~l:54~t:2116,,UCF,Knights,UCF Knights,UCF,UCF,000000,b4a169,https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png,ncaa_wbb
+85,s:40~l:54~t:85,,IU Indianapolis,Jaguars,IU Indianapolis Jaguars,IU Indy,IUIN,A81F30,d59f0f,https://a.espncdn.com/i/teamlogos/ncaa/500/85.png,ncaa_wbb
+2250,s:40~l:54~t:2250,,Gonzaga,Bulldogs,Gonzaga Bulldogs,Gonzaga,GONZ,041e42,c8102e,https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png,ncaa_wbb
+183,s:40~l:54~t:183,,Syracuse,Orange,Syracuse Orange,Syracuse,SYR,000e54,ff431b,https://a.espncdn.com/i/teamlogos/ncaa/500/183.png,ncaa_wbb
+2166,s:40~l:54~t:2166,,Davidson,Wildcats,Davidson Wildcats,Davidson,DAV,000000,e51837,https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png,ncaa_wbb
+82,s:40~l:54~t:82,,UIC,Flames,UIC Flames,UIC,UIC,001e62,d50032,https://a.espncdn.com/i/teamlogos/ncaa/500/82.png,ncaa_wbb
+194,s:40~l:54~t:194,,Ohio State,Buckeyes,Ohio State Buckeyes,Ohio State,OSU,ba0c2f,a8adb4,https://a.espncdn.com/i/teamlogos/ncaa/500/194.png,ncaa_wbb
+252,s:40~l:54~t:252,,BYU,Cougars,BYU Cougars,BYU,BYU,0047ba,002e5d,https://a.espncdn.com/i/teamlogos/ncaa/500/252.png,ncaa_wbb
+2294,s:40~l:54~t:2294,,Iowa,Hawkeyes,Iowa Hawkeyes,Iowa,IOWA,231f20,fcd116,https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png,ncaa_wbb
+77,s:40~l:54~t:77,,Northwestern,Wildcats,Northwestern Wildcats,Northwestern,NU,492f92,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png,ncaa_wbb
+2509,s:40~l:54~t:2509,,Purdue,Boilermakers,Purdue Boilermakers,Purdue,PUR,ceb888,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png,ncaa_wbb
+2670,s:40~l:54~t:2670,,VCU,Rams,VCU Rams,VCU,VCU,ffaf00,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png,ncaa_wbb
+288,s:40~l:54~t:288,,Lipscomb,Bisons,Lipscomb Bisons,Lipscomb,LIP,20366C,f6b734,https://a.espncdn.com/i/teamlogos/ncaa/500/288.png,ncaa_wbb
+151,s:40~l:54~t:151,,East Carolina,Pirates,East Carolina Pirates,East Carolina,ECU,582c83,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/151.png,ncaa_wbb
+2305,s:40~l:54~t:2305,,Kansas,Jayhawks,Kansas Jayhawks,Kansas,KU,0051ba,e8000d,https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png,ncaa_wbb
+2561,s:40~l:54~t:2561,,Siena,Saints,Siena Saints,Siena,SIE,037961,eea60f,https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png,ncaa_wbb
+3084,s:40~l:54~t:3084,,Utah Valley,Wolverines,Utah Valley Wolverines,Utah Valley,UVU,004812,e1c736,https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png,ncaa_wbb
+202,s:40~l:54~t:202,,Tulsa,Golden Hurricane,Tulsa Golden Hurricane,Tulsa,TLSA,003595,d0b787,https://a.espncdn.com/i/teamlogos/ncaa/500/202.png,ncaa_wbb
+2086,s:40~l:54~t:2086,,Butler,Bulldogs,Butler Bulldogs,Butler,BTLR,0d1361,00a3e0,https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png,ncaa_wbb
+2655,s:40~l:54~t:2655,,Tulane,Green Wave,Tulane Green Wave,Tulane,TULN,006747,418fde,https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png,ncaa_wbb
+2010,s:40~l:54~t:2010,,Alabama A&M,Bulldogs,Alabama A&M Bulldogs,Alabama A&M,AAMU,790000,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png,ncaa_wbb
+356,s:40~l:54~t:356,,Illinois,Fighting Illini,Illinois Fighting Illini,Illinois,ILL,ff5f05,13294b,https://a.espncdn.com/i/teamlogos/ncaa/500/356.png,ncaa_wbb
+2550,s:40~l:54~t:2550,,Seton Hall,Pirates,Seton Hall Pirates,Seton Hall,HALL,0857B1,8a8d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png,ncaa_wbb
+41,s:40~l:54~t:41,,UConn,Huskies,UConn Huskies,UConn,CONN,0c2340,a2aaad,https://a.espncdn.com/i/teamlogos/ncaa/500/41.png,ncaa_wbb
+120,s:40~l:54~t:120,,Maryland,Terrapins,Maryland Terrapins,Maryland,MD,ce1126,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png,ncaa_wbb
+142,s:40~l:54~t:142,,Missouri,Tigers,Missouri Tigers,Missouri,MIZ,f1b82d,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png,ncaa_wbb
+147,s:40~l:54~t:147,,Montana State,Bobcats,Montana State Bobcats,Montana St,MTST,00205c,bc955c,https://a.espncdn.com/i/teamlogos/ncaa/500/147.png,ncaa_wbb
+2515,s:40~l:54~t:2515,,Radford,Highlanders,Radford Highlanders,Radford,RAD,BC1515,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2515.png,ncaa_wbb
+16,s:40~l:54~t:16,,Sacramento State,Hornets,Sacramento State Hornets,Sacramento St,SAC,00573C,cdb97d,https://a.espncdn.com/i/teamlogos/ncaa/500/16.png,ncaa_wbb
+166,s:40~l:54~t:166,,New Mexico State,Aggies,New Mexico State Aggies,New Mexico St,NMSU,7e141b,231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/166.png,ncaa_wbb
+2182,s:40~l:54~t:2182,,Drexel,Dragons,Drexel Dragons,Drexel,DREX,020260,ffd65a,https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png,ncaa_wbb
+2066,s:40~l:54~t:2066,,Binghamton,Bearcats,Binghamton Bearcats,Binghamton,BING,00614A,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2066.png,ncaa_wbb
+2181,s:40~l:54~t:2181,,Drake,Bulldogs,Drake Bulldogs,Drake,DRKE,005596,bec0c2,https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png,ncaa_wbb
+93,s:40~l:54~t:93,,Murray State,Racers,Murray State Racers,Murray St,MUR,002148,000e00,https://a.espncdn.com/i/teamlogos/ncaa/500/93.png,ncaa_wbb
+2619,s:40~l:54~t:2619,,Stony Brook,Seawolves,Stony Brook Seawolves,Stony Brook,STBK,990000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png,ncaa_wbb
+2115,s:40~l:54~t:2115,,Central Connecticut,Blue Devils,Central Connecticut Blue Devils,C Connecticut,CCSU,1B49A2,d1d5d8,https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png,ncaa_wbb
+236,s:40~l:54~t:236,,Chattanooga,Mocs,Chattanooga Mocs,Chattanooga,UTC,00386b,dca71d,https://a.espncdn.com/i/teamlogos/ncaa/500/236.png,ncaa_wbb
+256,s:40~l:54~t:256,,James Madison,Dukes,James Madison Dukes,James Madison,JMU,450084,cbb677,https://a.espncdn.com/i/teamlogos/ncaa/500/256.png,ncaa_wbb
+2717,s:40~l:54~t:2717,,Western Carolina,Catamounts,Western Carolina Catamounts,W Carolina,WCU,492F91,bf9e70,https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png,ncaa_wbb
+2501,s:40~l:54~t:2501,,Portland,Pilots,Portland Pilots,Portland,PORT,330072,a8b3ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2501.png,ncaa_wbb
+239,s:40~l:54~t:239,,Baylor,Bears,Baylor Bears,Baylor,BAY,154734,ffb81c,https://a.espncdn.com/i/teamlogos/ncaa/500/239.png,ncaa_wbb
+113,s:40~l:54~t:113,,Massachusetts,Minutewomen,Massachusetts Minutewomen,UMass,MASS,881c1c,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/113.png,ncaa_wbb
+344,s:40~l:54~t:344,,Mississippi State,Bulldogs,Mississippi State Bulldogs,Mississippi St,MSST,5d1725,c1c6c8,https://a.espncdn.com/i/teamlogos/ncaa/500/344.png,ncaa_wbb
+38,s:40~l:54~t:38,,Colorado,Buffaloes,Colorado Buffaloes,Colorado,COLO,cfb87c,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/38.png,ncaa_wbb
+6,s:40~l:54~t:6,,South Alabama,Jaguars,South Alabama Jaguars,South Alabama,USA,00205b,bf0d3e,https://a.espncdn.com/i/teamlogos/ncaa/500/6.png,ncaa_wbb
+2571,s:40~l:54~t:2571,,South Dakota State,Jackrabbits,South Dakota State Jackrabbits,S Dakota St,SDST,0033a0,ffd100,https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png,ncaa_wbb
+2507,s:40~l:54~t:2507,,Providence,Friars,Providence Friars,Providence,PROV,000000,a3a19e,https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png,ncaa_wbb
+112358,s:40~l:54~t:112358,,Long Island University,Sharks,Long Island University Sharks,Long Island,LIU,50c9f7,ffbf00,https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png,ncaa_wbb
+130,s:40~l:54~t:130,,Michigan,Wolverines,Michigan Wolverines,Michigan,MICH,00274c,ffcb05,https://a.espncdn.com/i/teamlogos/ncaa/500/130.png,ncaa_wbb
+2230,s:40~l:54~t:2230,,Fordham,Rams,Fordham Rams,Fordham,FOR,830032,909090,https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png,ncaa_wbb
+399,s:40~l:54~t:399,,UAlbany,Great Danes,UAlbany Great Danes,UAlbany,UALB,3D2777,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/399.png,ncaa_wbb
+302,s:40~l:54~t:302,,UC Davis,Aggies,UC Davis Aggies,UC Davis,UCD,002855,c3c4c6,https://a.espncdn.com/i/teamlogos/ncaa/500/302.png,ncaa_wbb
+2393,s:40~l:54~t:2393,,Middle Tennessee,Blue Raiders,Middle Tennessee Blue Raiders,MTSU,MTSU,036eb7,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png,ncaa_wbb
+2174,s:40~l:54~t:2174,,Detroit Mercy,Titans,Detroit Mercy Titans,Detroit Mercy,DETM,165b9e,d31733,https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png,ncaa_wbb
+219,s:40~l:54~t:219,,Pennsylvania,Quakers,Pennsylvania Quakers,Penn,PENN,082A74,a6163d,https://a.espncdn.com/i/teamlogos/ncaa/500/219.png,ncaa_wbb
+2005,s:40~l:54~t:2005,,Air Force,Falcons,Air Force Falcons,Air Force,AF,003594,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png,ncaa_wbb
+44,s:40~l:54~t:44,,American University,Eagles,American University Eagles,American,AMER,c41130,c8102e,https://a.espncdn.com/i/teamlogos/ncaa/500/44.png,ncaa_wbb
+155,s:40~l:54~t:155,,North Dakota,Fighting Hawks,North Dakota Fighting Hawks,North Dakota,UND,00A26B,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/155.png,ncaa_wbb
+97,s:40~l:54~t:97,,Louisville,Cardinals,Louisville Cardinals,Louisville,LOU,c9001f,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png,ncaa_wbb
+2934,s:40~l:54~t:2934,,Cal State Bakersfield,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield,CSUB,003BAB,,https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png,ncaa_wbb
+2229,s:40~l:54~t:2229,,Florida International,Panthers,Florida International Panthers,FIU,FIU,091f3f,c3993f,https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png,ncaa_wbb
+47,s:40~l:54~t:47,,Howard,Bison,Howard Bison,Howard,HOW,003a63,e51937,https://a.espncdn.com/i/teamlogos/ncaa/500/47.png,ncaa_wbb
+2885,s:40~l:54~t:2885,,NJIT,Highlanders,NJIT Highlanders,NJIT,NJIT,EE3024,df3e2e,https://a.espncdn.com/i/teamlogos/ncaa/500/2885.png,ncaa_wbb
+2110,s:40~l:54~t:2110,,Central Arkansas,Bears,Central Arkansas Bears,C Arkansas,CARK,a7a9ac,8e959a,https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png,ncaa_wbb
+2198,s:40~l:54~t:2198,,Eastern Kentucky,Colonels,Eastern Kentucky Colonels,E Kentucky,EKU,660819,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png,ncaa_wbb
+23,s:40~l:54~t:23,,San José State,Spartans,San José State Spartans,San José St,SJSU,0038a8,ffb81a,https://a.espncdn.com/i/teamlogos/ncaa/500/23.png,ncaa_wbb
+305,s:40~l:54~t:305,,DePaul,Blue Demons,DePaul Blue Demons,DePaul,DEP,2d649c,ce1125,https://a.espncdn.com/i/teamlogos/ncaa/500/305.png,ncaa_wbb
+2244,s:40~l:54~t:2244,,George Mason,Patriots,George Mason Patriots,George Mason,GMU,016600,ecb010,https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png,ncaa_wbb
+2325,s:40~l:54~t:2325,,La Salle,Explorers,La Salle Explorers,La Salle,LAS,003356,ffce00,https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png,ncaa_wbb
+2350,s:40~l:54~t:2350,,Loyola Chicago,Ramblers,Loyola Chicago Ramblers,Loyola Chicago,LUC,9d1244,,https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png,ncaa_wbb
+179,s:40~l:54~t:179,,St. Bonaventure,Bonnies,St. Bonaventure Bonnies,St Bonaventure,SBU,70261D,,https://a.espncdn.com/i/teamlogos/ncaa/500/179.png,ncaa_wbb
+2454,s:40~l:54~t:2454,,North Florida,Ospreys,North Florida Ospreys,North Florida,UNF,004B8D,babcbe,https://a.espncdn.com/i/teamlogos/ncaa/500/2454.png,ncaa_wbb
+2724,s:40~l:54~t:2724,,Wichita State,Shockers,Wichita State Shockers,Wichita St,WICH,ffcd00,27251f,https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png,ncaa_wbb
+299,s:40~l:54~t:299,,Long Beach State,Beach,Long Beach State Beach,Long Beach St,LBSU,000000,f1f2f3,https://a.espncdn.com/i/teamlogos/ncaa/500/299.png,ncaa_wbb
+338,s:40~l:54~t:338,,Kennesaw State,Owls,Kennesaw State Owls,Kennesaw St,KENN,fdbb30,0b1315,https://a.espncdn.com/i/teamlogos/ncaa/500/338.png,ncaa_wbb
+270,s:40~l:54~t:270,,Milwaukee,Panthers,Milwaukee Panthers,Milwaukee,MILW,000000,ffc20e,https://a.espncdn.com/i/teamlogos/ncaa/500/270.png,ncaa_wbb
+232,s:40~l:54~t:232,,Charleston,Cougars,Charleston Cougars,Charleston,COFC,7a2531,9e8959,https://a.espncdn.com/i/teamlogos/ncaa/500/232.png,ncaa_wbb
+2405,s:40~l:54~t:2405,,Monmouth,Hawks,Monmouth Hawks,Monmouth,MONM,051844,,https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png,ncaa_wbb
+2739,s:40~l:54~t:2739,,Green Bay,Phoenix,Green Bay Phoenix,Green Bay,GB,006633,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png,ncaa_wbb
+2674,s:40~l:54~t:2674,,Valparaiso,Beacons,Valparaiso Beacons,Valparaiso,VAL,794500,,https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png,ncaa_wbb
+278,s:40~l:54~t:278,,Fresno State,Bulldogs,Fresno State Bulldogs,Fresno St,FRES,b1102b,13284c,https://a.espncdn.com/i/teamlogos/ncaa/500/278.png,ncaa_wbb
+2349,s:40~l:54~t:2349,,UMass Lowell,River Hawks,UMass Lowell River Hawks,UMass Lowell,UML,000000,cf1f2f,https://a.espncdn.com/i/teamlogos/ncaa/500/2349.png,ncaa_wbb
+2193,s:40~l:54~t:2193,,East Tennessee State,Bucs,East Tennessee State Bucs,ETSU,ETSU,002d61,ffc423,https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png,ncaa_wbb
+2226,s:40~l:54~t:2226,,Florida Atlantic,Owls,Florida Atlantic Owls,FAU,FAU,003366,cc0000,https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png,ncaa_wbb
+2430,s:40~l:54~t:2430,,UNC Greensboro,Spartans,UNC Greensboro Spartans,UNC Greensboro,UNCG,003559,ffd90a,https://a.espncdn.com/i/teamlogos/ncaa/500/2430.png,ncaa_wbb
+2428,s:40~l:54~t:2428,,North Carolina Central,Eagles,North Carolina Central Eagles,NC Central,NCCU,880023,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png,ncaa_wbb
+2608,s:40~l:54~t:2608,,Saint Mary's,Gaels,Saint Mary's Gaels,Saint Mary's,SMC,d80024,003057,https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png,ncaa_wbb
+326,s:40~l:54~t:326,,Texas State,Bobcats,Texas State Bobcats,Texas St,TXST,501214,6a5638,https://a.espncdn.com/i/teamlogos/ncaa/500/326.png,ncaa_wbb
+2534,s:40~l:54~t:2534,,Sam Houston,Bearkats,Sam Houston Bearkats,Sam Houston,SHSU,f56423,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png,ncaa_wbb
+55,s:40~l:54~t:55,,Jacksonville State,Gamecocks,Jacksonville State Gamecocks,Jax State,JXST,cc0000,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/55.png,ncaa_wbb
+2636,s:40~l:54~t:2636,,UTSA,Roadrunners,UTSA Roadrunners,UTSA,UTSA,0c2340,f15a22,https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png,ncaa_wbb
+257,s:40~l:54~t:257,,Richmond,Spiders,Richmond Spiders,Richmond,RICH,9e0712,b90b2e,https://a.espncdn.com/i/teamlogos/ncaa/500/257.png,ncaa_wbb
+2502,s:40~l:54~t:2502,,Portland State,Vikings,Portland State Vikings,Portland St,PRST,00311e,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png,ncaa_wbb
+2539,s:40~l:54~t:2539,,San Francisco,Dons,San Francisco Dons,San Francisco,SF,005a36,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png,ncaa_wbb
+2130,s:40~l:54~t:2130,,Chicago State,Cougars,Chicago State Cougars,Chicago St,CHST,006700,,https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png,ncaa_wbb
+222,s:40~l:54~t:222,,Villanova,Wildcats,Villanova Wildcats,Villanova,VILL,00205b,13b5ea,https://a.espncdn.com/i/teamlogos/ncaa/500/222.png,ncaa_wbb
+2330,s:40~l:54~t:2330,,Le Moyne,Dolphins,Le Moyne Dolphins,Le Moyne,LEM,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png,ncaa_wbb
+2635,s:40~l:54~t:2635,,Tennessee Tech,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech,TNTC,5A4099,ffde00,https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png,ncaa_wbb
+2352,s:40~l:54~t:2352,,Loyola Maryland,Greyhounds,Loyola Maryland Greyhounds,Loyola MD,L-MD,76a7a0,c9cbca,https://a.espncdn.com/i/teamlogos/ncaa/500/2352.png,ncaa_wbb
+2127,s:40~l:54~t:2127,,Charleston Southern,Buccaneers,Charleston Southern Buccaneers,Charleston So,CHSO,2e3192,ded090,https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png,ncaa_wbb
+28,s:40~l:54~t:28,,UC San Diego,Tritons,UC San Diego Tritons,UC San Diego,UCSD,000000,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/28.png,ncaa_wbb
+339,s:40~l:54~t:339,,Evansville,Purple Aces,Evansville Purple Aces,Evansville,EVAN,663399,ef6f00,https://a.espncdn.com/i/teamlogos/ncaa/500/339.png,ncaa_wbb
+2368,s:40~l:54~t:2368,,Marist,Red Foxes,Marist Red Foxes,Marist,MRST,e53730,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png,ncaa_wbb
+2514,s:40~l:54~t:2514,,Quinnipiac,Bobcats,Quinnipiac Bobcats,Quinnipiac,QUIN,041B43,,https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png,ncaa_wbb
+116,s:40~l:54~t:116,,Mount St. Mary's,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys,MSM,005596,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/116.png,ncaa_wbb
+79,s:40~l:54~t:79,,Southern Illinois,Salukis,Southern Illinois Salukis,S Illinois,SIU,85283D,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/79.png,ncaa_wbb
+2437,s:40~l:54~t:2437,,Omaha,Mavericks,Omaha Mavericks,Omaha,OMA,e3193e,474648,https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png,ncaa_wbb
+276,s:40~l:54~t:276,,Marshall,Thundering Herd,Marshall Thundering Herd,Marshall,MRSH,00b140,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/276.png,ncaa_wbb
+2132,s:40~l:54~t:2132,,Cincinnati,Bearcats,Cincinnati Bearcats,Cincinnati,CIN,000000,e00122,https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png,ncaa_wbb
+2623,s:40~l:54~t:2623,,Missouri State,Lady Bears,Missouri State Lady Bears,Missouri St,MOST,5e0009,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png,ncaa_wbb
+2272,s:40~l:54~t:2272,,High Point,Panthers,High Point Panthers,High Point,HPU,330072,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png,ncaa_wbb
+251,s:40~l:54~t:251,,Texas,Longhorns,Texas Longhorns,Texas,TEX,af5c37,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/251.png,ncaa_wbb
+68,s:40~l:54~t:68,,Boise State,Broncos,Boise State Broncos,Boise St,BOIS,0033a0,d64309,https://a.espncdn.com/i/teamlogos/ncaa/500/68.png,ncaa_wbb
+145,s:40~l:54~t:145,,Ole Miss,Rebels,Ole Miss Rebels,Ole Miss,MISS,13294b,cf142b,https://a.espncdn.com/i/teamlogos/ncaa/500/145.png,ncaa_wbb
+156,s:40~l:54~t:156,,Creighton,Bluejays,Creighton Bluejays,Creighton,CREI,005ca9,6cadde,https://a.espncdn.com/i/teamlogos/ncaa/500/156.png,ncaa_wbb
+21,s:40~l:54~t:21,,San Diego State,Aztecs,San Diego State Aztecs,San Diego St,SDSU,a6192e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/21.png,ncaa_wbb
+2458,s:40~l:54~t:2458,,Northern Colorado,Bears,Northern Colorado Bears,N Colorado,UNCO,13558D,ffc533,https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png,ncaa_wbb
+2031,s:40~l:54~t:2031,,Little Rock,Trojans,Little Rock Trojans,Little Rock,LR,AD0000,898d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2031.png,ncaa_wbb
+198,s:40~l:54~t:198,,Oral Roberts,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts,ORU,002462,dac792,https://a.espncdn.com/i/teamlogos/ncaa/500/198.png,ncaa_wbb
+295,s:40~l:54~t:295,,Old Dominion,Monarchs,Old Dominion Monarchs,Old Dominion,ODU,003768,a1d2f1,https://a.espncdn.com/i/teamlogos/ncaa/500/295.png,ncaa_wbb
+2771,s:40~l:54~t:2771,,Merrimack,Warriors,Merrimack Warriors,Merrimack,MRMK,2f4f93,e8c535,https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png,ncaa_wbb
+2627,s:40~l:54~t:2627,,Tarleton State,Texans,Tarleton State Texans,Tarleton St,TAR,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2627.png,ncaa_wbb
+2447,s:40~l:54~t:2447,,Nicholls,Colonels,Nicholls Colonels,Nicholls,NICH,C41230,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png,ncaa_wbb
+2448,s:40~l:54~t:2448,,North Carolina A&T,Aggies,North Carolina A&T Aggies,NC A&T,NCAT,0505aa,004684,https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png,ncaa_wbb
+48,s:40~l:54~t:48,,Delaware,Blue Hens,Delaware Blue Hens,Delaware,DEL,00539f,ffd200,https://a.espncdn.com/i/teamlogos/ncaa/500/48.png,ncaa_wbb
+2750,s:40~l:54~t:2750,,Wright State,Raiders,Wright State Raiders,Wright St,WRST,cba052,cba052,https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png,ncaa_wbb
+2217,s:40~l:54~t:2217,,Fairfield,Stags,Fairfield Stags,Fairfield,FAIR,000000,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png,ncaa_wbb
+314,s:40~l:54~t:314,,Iona,Gaels,Iona Gaels,Iona,IONA,6f2c3e,f0ab00,https://a.espncdn.com/i/teamlogos/ncaa/500/314.png,ncaa_wbb
+325,s:40~l:54~t:325,,Cleveland State,Vikings,Cleveland State Vikings,Cleveland St,CLE,006633,231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/325.png,ncaa_wbb
+2815,s:40~l:54~t:2815,,Lindenwood,Lions,Lindenwood Lions,Lindenwood,LIN,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png,ncaa_wbb
+139,s:40~l:54~t:139,,Saint Louis,Billikens,Saint Louis Billikens,Saint Louis,SLU,00539C,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/139.png,ncaa_wbb
+2710,s:40~l:54~t:2710,,Western Illinois,Leathernecks,Western Illinois Leathernecks,W Illinois,WIU,4e1e8a,ffc90a,https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png,ncaa_wbb
+290,s:40~l:54~t:290,,Georgia Southern,Eagles,Georgia Southern Eagles,GA Southern,GASO,041e42,a3aaae,https://a.espncdn.com/i/teamlogos/ncaa/500/290.png,ncaa_wbb
+2000,s:40~l:54~t:2000,,Abilene Christian,Wildcats,Abilene Christian Wildcats,Abilene Chrstn,ACU,592d82,b1b3b3,https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png,ncaa_wbb
+2692,s:40~l:54~t:2692,,Weber State,Wildcats,Weber State Wildcats,Weber St,WEB,18005a,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png,ncaa_wbb
+87,s:40~l:54~t:87,,Notre Dame,Fighting Irish,Notre Dame Fighting Irish,Notre Dame,ND,062340,c99700,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png,ncaa_wbb
+163,s:40~l:54~t:163,,Princeton,Tigers,Princeton Tigers,Princeton,PRIN,000000,ff6000,https://a.espncdn.com/i/teamlogos/ncaa/500/163.png,ncaa_wbb
+2511,s:40~l:54~t:2511,,Queens University,Royals,Queens University Royals,Queens,QUC,192C66,857040,https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png,ncaa_wbb
+2379,s:40~l:54~t:2379,,Maryland Eastern Shore,Hawks,Maryland Eastern Shore Hawks,MD Eastern,UMES,5c2301,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2379.png,ncaa_wbb
+161,s:40~l:54~t:161,,Fairleigh Dickinson,Knights,Fairleigh Dickinson Knights,FDU,FDU,72293c,28334a,https://a.espncdn.com/i/teamlogos/ncaa/500/161.png,ncaa_wbb
+3101,s:40~l:54~t:3101,,Utah Tech,Trailblazers,Utah Tech Trailblazers,Utah Tech,UTU,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png,ncaa_wbb
+225,s:40~l:54~t:225,,Brown,Bears,Brown Bears,Brown,BRWN,411e09,949300,https://a.espncdn.com/i/teamlogos/ncaa/500/225.png,ncaa_wbb
+2032,s:40~l:54~t:2032,,Arkansas State,Red Wolves,Arkansas State Red Wolves,Arkansas St,ARST,cc092f,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png,ncaa_wbb
+324,s:40~l:54~t:324,,Coastal Carolina,Chanticleers,Coastal Carolina Chanticleers,Coastal,CCU,006f71,a27752,https://a.espncdn.com/i/teamlogos/ncaa/500/324.png,ncaa_wbb
+159,s:40~l:54~t:159,,Dartmouth,Big Green,Dartmouth Big Green,Dartmouth,DART,005730,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/159.png,ncaa_wbb
+2506,s:40~l:54~t:2506,,Presbyterian,Blue Hose,Presbyterian Blue Hose,Presbyterian,PRES,194896,990134,https://a.espncdn.com/i/teamlogos/ncaa/500/2506.png,ncaa_wbb
+2239,s:40~l:54~t:2239,,Cal State Fullerton,Titans,Cal State Fullerton Titans,Fullerton,CSUF,003767,ff8300,https://a.espncdn.com/i/teamlogos/ncaa/500/2239.png,ncaa_wbb
+2057,s:40~l:54~t:2057,,Belmont,Bruins,Belmont Bruins,Belmont,BEL,182142,c9262d,https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png,ncaa_wbb
+111,s:40~l:54~t:111,,Northeastern,Huskies,Northeastern Huskies,Northeastern,NE,CC0001,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/111.png,ncaa_wbb
+2415,s:40~l:54~t:2415,,Morgan State,Lady Bears,Morgan State Lady Bears,Morgan St,MORG,014786,f47937,https://a.espncdn.com/i/teamlogos/ncaa/500/2415.png,ncaa_wbb
+172,s:40~l:54~t:172,,Cornell,Big Red,Cornell Big Red,Cornell,COR,b31b1b,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/172.png,ncaa_wbb
+2426,s:40~l:54~t:2426,,Navy,Midshipmen,Navy Midshipmen,Navy,NAVY,00225b,b5a67c,https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png,ncaa_wbb
+2097,s:40~l:54~t:2097,,Campbell,Fighting Camels,Campbell Fighting Camels,Campbell,CAM,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png,ncaa_wbb
+2540,s:40~l:54~t:2540,,UC Santa Barbara,Gauchos,UC Santa Barbara Gauchos,Santa Barbara,UCSB,1e1840,febc11,https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png,ncaa_wbb
+2363,s:40~l:54~t:2363,,Manhattan,Jaspers,Manhattan Jaspers,Manhattan,MAN,4f8537,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png,ncaa_wbb
+2169,s:40~l:54~t:2169,,Delaware State,Hornets,Delaware State Hornets,Delaware St,DSU,009cdb,d51c28,https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png,ncaa_wbb
+149,s:40~l:54~t:149,,Montana,Lady Griz,Montana Lady Griz,Montana,MONT,751D4A,666666,https://a.espncdn.com/i/teamlogos/ncaa/500/149.png,ncaa_wbb
+2453,s:40~l:54~t:2453,,North Alabama,Lions,North Alabama Lions,North Alabama,UNA,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png,ncaa_wbb
+279,s:40~l:54~t:279,,Pacific,Tigers,Pacific Tigers,Pacific,PAC,F47820,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/279.png,ncaa_wbb
+2545,s:40~l:54~t:2545,,SE Louisiana,Lady Lions,SE Louisiana Lady Lions,SE Louisiana,SELA,215732,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png,ncaa_wbb
+2427,s:40~l:54~t:2427,,UNC Asheville,Bulldogs,UNC Asheville Bulldogs,UNC Asheville,UNCA,003da5,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2427.png,ncaa_wbb
+304,s:40~l:54~t:304,,Idaho State,Bengals,Idaho State Bengals,Idaho St,IDST,ef8c00,e9a126,https://a.espncdn.com/i/teamlogos/ncaa/500/304.png,ncaa_wbb
+2565,s:40~l:54~t:2565,,SIU Edwardsville,Cougars,SIU Edwardsville Cougars,SIUE,SIUE,eb1c23,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png,ncaa_wbb
+5,s:40~l:54~t:5,,UAB,Blazers,UAB Blazers,UAB,UAB,1a5632,fdb913,https://a.espncdn.com/i/teamlogos/ncaa/500/5.png,ncaa_wbb
+253,s:40~l:54~t:253,,Southern Utah,Thunderbirds,Southern Utah Thunderbirds,Southern Utah,SUU,c72026,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/253.png,ncaa_wbb
+2261,s:40~l:54~t:2261,,Hampton,Lady Pirates,Hampton Lady Pirates,Hampton,HAMP,0067AC,,https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png,ncaa_wbb
+2460,s:40~l:54~t:2460,,Northern Iowa,Panthers,Northern Iowa Panthers,Northern Iowa,UNI,473282,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png,ncaa_wbb
+160,s:40~l:54~t:160,,New Hampshire,Wildcats,New Hampshire Wildcats,New Hampshire,UNH,004990,c3c4c6,https://a.espncdn.com/i/teamlogos/ncaa/500/160.png,ncaa_wbb
+2908,s:40~l:54~t:2908,,South Carolina Upstate,Spartans,South Carolina Upstate Spartans,SC Upstate,UPST,008545,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2908.png,ncaa_wbb
+2856,s:40~l:54~t:2856,,California Baptist,Lancers,California Baptist Lancers,CA Baptist,CBU,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2856.png,ncaa_wbb
+2547,s:40~l:54~t:2547,,Seattle U,Redhawks,Seattle U Redhawks,Seattle U,SEA,BF2E1A,c2c3c0,https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png,ncaa_wbb
+2433,s:40~l:54~t:2433,,UL Monroe,Warhawks,UL Monroe Warhawks,UL Monroe,ULM,840029,fdb913,https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png,ncaa_wbb
+322,s:40~l:54~t:322,,Lafayette,Leopards,Lafayette Leopards,Lafayette,LAF,790000,a59474,https://a.espncdn.com/i/teamlogos/ncaa/500/322.png,ncaa_wbb
+2413,s:40~l:54~t:2413,,Morehead State,Eagles,Morehead State Eagles,Morehead St,MORE,094FA3,fed91a,https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png,ncaa_wbb
+331,s:40~l:54~t:331,,Eastern Washington,Eagles,Eastern Washington Eagles,E Washington,EWU,a10022,abb4bc,https://a.espncdn.com/i/teamlogos/ncaa/500/331.png,ncaa_wbb
+2287,s:40~l:54~t:2287,,Illinois State,Redbirds,Illinois State Redbirds,Illinois St,ILST,CE1126,ffe716,https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png,ncaa_wbb
+88,s:40~l:54~t:88,,Southern Indiana,Screaming Eagles,Southern Indiana Screaming Eagles,S Indiana,USI,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/88.png,ncaa_wbb
+526,s:40~l:54~t:526,,Florida Gulf Coast,Eagles,Florida Gulf Coast Eagles,FGCU,FGCU,00885a,076c3b,https://a.espncdn.com/i/teamlogos/ncaa/500/526.png,ncaa_wbb
+294,s:40~l:54~t:294,,Jacksonville,Dolphins,Jacksonville Dolphins,Jacksonville,JAX,00523e,,https://a.espncdn.com/i/teamlogos/ncaa/500/294.png,ncaa_wbb
+2916,s:40~l:54~t:2916,,Incarnate Word,Cardinals,Incarnate Word Cardinals,Incarnate Word,UIW,000000,080808,https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png,ncaa_wbb
+2837,s:40~l:54~t:2837,,East Texas A&M,Lions,East Texas A&M Lions,East Texas A&M,ETAM,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png,ncaa_wbb
+2443,s:40~l:54~t:2443,,LSU New Orleans,Privateers,LSU New Orleans Privateers,LSU N Orleans,NOLA,005da6,a2a9ae,https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png,ncaa_wbb
+2099,s:40~l:54~t:2099,,Canisius,Golden Griffins,Canisius Golden Griffins,Canisius,CAN,004a81,dda50f,https://a.espncdn.com/i/teamlogos/ncaa/500/2099.png,ncaa_wbb
+56,s:40~l:54~t:56,,Stetson,Hatters,Stetson Hatters,Stetson,STET,0a5640,56854e,https://a.espncdn.com/i/teamlogos/ncaa/500/56.png,ncaa_wbb
+2247,s:40~l:54~t:2247,,Georgia State,Panthers,Georgia State Panthers,Georgia St,GAST,0039a6,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png,ncaa_wbb
+46,s:40~l:54~t:46,,Georgetown,Hoyas,Georgetown Hoyas,Georgetown,GTWN,110E42,001c58,https://a.espncdn.com/i/teamlogos/ncaa/500/46.png,ncaa_wbb
+231,s:40~l:54~t:231,,Furman,Paladins,Furman Paladins,Furman,FUR,582c83,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/231.png,ncaa_wbb
+2464,s:40~l:54~t:2464,,Northern Arizona,Lumberjacks,Northern Arizona Lumberjacks,N Arizona,NAU,003976,1b3069,https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png,ncaa_wbb
+27,s:40~l:54~t:27,,UC Riverside,Highlanders,UC Riverside Highlanders,UC Riverside,UCR,14234F,,https://a.espncdn.com/i/teamlogos/ncaa/500/27.png,ncaa_wbb
+350,s:40~l:54~t:350,,UNC Wilmington,Seahawks,UNC Wilmington Seahawks,UNC Wilmington,UNCW,00665e,ffda00,https://a.espncdn.com/i/teamlogos/ncaa/500/350.png,ncaa_wbb
+2083,s:40~l:54~t:2083,,Bucknell,Bison,Bucknell Bison,Bucknell,BUCK,000060,00316e,https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png,ncaa_wbb
+2698,s:40~l:54~t:2698,,West Georgia,Wolves,West Georgia Wolves,West Georgia,WGA,0033a1,db1a21,https://a.espncdn.com/i/teamlogos/ncaa/500/2698.png,ncaa_wbb
+2529,s:40~l:54~t:2529,,Sacred Heart,Pioneers,Sacred Heart Pioneers,Sacred Heart,SHU,a40012,c29472,https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png,ncaa_wbb
+2473,s:40~l:54~t:2473,,Oakland,Golden Grizzlies,Oakland Golden Grizzlies,Oakland,OAK,04091c,bc955c,https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png,ncaa_wbb
+91,s:40~l:54~t:91,,Bellarmine,Knights,Bellarmine Knights,Bellarmine,BELL,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/91.png,ncaa_wbb
+315,s:40~l:54~t:315,,Niagara,Purple Eagles,Niagara Purple Eagles,Niagara,NIA,69207E,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/315.png,ncaa_wbb
+71,s:40~l:54~t:71,,Bradley,Braves,Bradley Braves,Bradley,BRAD,b70002,c0c0c0,https://a.espncdn.com/i/teamlogos/ncaa/500/71.png,ncaa_wbb
+2747,s:40~l:54~t:2747,,Wofford,Terriers,Wofford Terriers,Wofford,WOF,533B24,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2747.png,ncaa_wbb
+2277,s:40~l:54~t:2277,,Houston Christian,Huskies,Houston Christian Huskies,Hou Christian,HCU,00539c,,https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png,ncaa_wbb
+2640,s:40~l:54~t:2640,,Texas Southern,Tigers,Texas Southern Tigers,Texas Southern,TXSO,860038,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png,ncaa_wbb
+309,s:40~l:54~t:309,,Louisiana,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana,UL,ce181e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/309.png,ncaa_wbb
+2681,s:40~l:54~t:2681,,Wagner,Seahawks,Wagner Seahawks,Wagner,WAG,00483A,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png,ncaa_wbb
+2634,s:40~l:54~t:2634,,Tennessee State,Lady Tigers,Tennessee State Lady Tigers,Tennessee St,TNST,171796,f0f0f0,https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png,ncaa_wbb
+140,s:40~l:54~t:140,,Kansas City,Roos,Kansas City Roos,Kansas City,KC,004b87,ffc72c,https://a.espncdn.com/i/teamlogos/ncaa/500/140.png,ncaa_wbb
+62,s:40~l:54~t:62,,Hawai'i,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i,HAW,005737,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/62.png,ncaa_wbb
+2440,s:40~l:54~t:2440,,Nevada,Wolf Pack,Nevada Wolf Pack,Nevada,NEV,041e42,8a8d8f,https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png,ncaa_wbb
+2377,s:40~l:54~t:2377,,McNeese,Cowgirls,McNeese Cowgirls,McNeese,MCN,00529C,ffd204,https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png,ncaa_wbb
+2197,s:40~l:54~t:2197,,Eastern Illinois,Panthers,Eastern Illinois Panthers,E Illinois,EIU,000000,bebab9,https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png,ncaa_wbb
+2737,s:40~l:54~t:2737,,Winthrop,Eagles,Winthrop Eagles,Winthrop,WIN,9e0b0e,fdb41e,https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png,ncaa_wbb
+13,s:40~l:54~t:13,,Cal Poly,Mustangs,Cal Poly Mustangs,Cal Poly,CP,1E4D2B,eed897,https://a.espncdn.com/i/teamlogos/ncaa/500/13.png,ncaa_wbb
+2344,s:40~l:54~t:2344,,Longwood,Lancers,Longwood Lancers,Longwood,LONG,003273,9ea2a3,https://a.espncdn.com/i/teamlogos/ncaa/500/2344.png,ncaa_wbb
+2172,s:40~l:54~t:2172,,Denver,Pioneers,Denver Pioneers,Denver,DEN,98002e,a8996e,https://a.espncdn.com/i/teamlogos/ncaa/500/2172.png,ncaa_wbb
+119,s:40~l:54~t:119,,Towson,Tigers,Towson Tigers,Towson,TOW,FFC229,,https://a.espncdn.com/i/teamlogos/ncaa/500/119.png,ncaa_wbb
+2046,s:40~l:54~t:2046,,Austin Peay,Governors,Austin Peay Governors,Austin Peay,APSU,8e0b0b,,https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png,ncaa_wbb
+2026,s:40~l:54~t:2026,,App State,Mountaineers,App State Mountaineers,App State,APP,000000,ffcd00,https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png,ncaa_wbb
+98,s:40~l:54~t:98,,Western Kentucky,Lady Toppers,Western Kentucky Lady Toppers,Western KY,WKU,e13a3e,ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/98.png,ncaa_wbb
+269,s:40~l:54~t:269,,Marquette,Golden Eagles,Marquette Golden Eagles,Marquette,MARQ,003366,ffcc00,https://a.espncdn.com/i/teamlogos/ncaa/500/269.png,ncaa_wbb
+2572,s:40~l:54~t:2572,,Southern Miss,Lady Eagles,Southern Miss Lady Eagles,Southern Miss,USM,ffc72c,231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png,ncaa_wbb
+2546,s:40~l:54~t:2546,,Southeast Missouri State,Redhawks,Southeast Missouri State Redhawks,SE Missouri,SEMO,c8102e,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png,ncaa_wbb
+2582,s:40~l:54~t:2582,,Southern,Jaguars,Southern Jaguars,Southern,SOU,004B97,ffc82d,https://a.espncdn.com/i/teamlogos/ncaa/500/2582.png,ncaa_wbb
+284,s:40~l:54~t:284,,Stonehill,Skyhawks,Stonehill Skyhawks,Stonehill,STO,000000,,https://a.espncdn.com/i/teamlogos/ncaa/500/284.png,ncaa_wbb
+2535,s:40~l:54~t:2535,,Samford,Bulldogs,Samford Bulldogs,Samford,SAM,005485,bc0023,https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png,ncaa_wbb
+357,s:40~l:54~t:357,,Texas A&M-Corpus Christi,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC,AMCC,0067c5,007f3e,https://a.espncdn.com/i/teamlogos/ncaa/500/357.png,ncaa_wbb
+2011,s:40~l:54~t:2011,,Alabama State,Lady Hornets,Alabama State Lady Hornets,Alabama St,ALST,e9a900,0a0a0a,https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png,ncaa_wbb
+2351,s:40~l:54~t:2351,,Loyola Marymount,Lions,Loyola Marymount Lions,LMU,LMU,880029,00345b,https://a.espncdn.com/i/teamlogos/ncaa/500/2351.png,ncaa_wbb
+2463,s:40~l:54~t:2463,,Cal State Northridge,Matadors,Cal State Northridge Matadors,CSU Northridge,CSUN,b50000,,https://a.espncdn.com/i/teamlogos/ncaa/500/2463.png,ncaa_wbb
+2870,s:40~l:54~t:2870,,Purdue Fort Wayne,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW,PFW,cfb991,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png,ncaa_wbb
+2729,s:40~l:54~t:2729,,William & Mary,Tribe,William & Mary Tribe,William & Mary,W&M,115740,f0b323,https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png,ncaa_wbb
+2523,s:40~l:54~t:2523,,Robert Morris,Colonials,Robert Morris Colonials,Robert Morris,RMU,00214D,a21d2b,https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png,ncaa_wbb
+301,s:40~l:54~t:301,,San Diego,Toreros,San Diego Toreros,San Diego,USD,2f99d4,2f99d4,https://a.espncdn.com/i/teamlogos/ncaa/500/301.png,ncaa_wbb
+2154,s:40~l:54~t:2154,,Coppin State,Eagles,Coppin State Eagles,Coppin St,COPP,2e3192,ffd204,https://a.espncdn.com/i/teamlogos/ncaa/500/2154.png,ncaa_wbb
+2320,s:40~l:54~t:2320,,Lamar,Cardinals,Lamar Cardinals,Lamar,LAM,000000,ebebeb,https://a.espncdn.com/i/teamlogos/ncaa/500/2320.png,ncaa_wbb
+2296,s:40~l:54~t:2296,,Jackson State,Lady Tigers,Jackson State Lady Tigers,Jackson St,JKST,123297,b5b7ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png,ncaa_wbb
+2065,s:40~l:54~t:2065,,Bethune-Cookman,Wildcats,Bethune-Cookman Wildcats,Bethune,BCU,7b1831,e9aa12,https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png,ncaa_wbb
+292,s:40~l:54~t:292,,UT Rio Grande Valley,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande,RGV,dc6000,e1732d,https://a.espncdn.com/i/teamlogos/ncaa/500/292.png,ncaa_wbb
+2603,s:40~l:54~t:2603,,Saint Joseph's,Hawks,Saint Joseph's Hawks,Saint Joseph's,JOES,9e1b32,6c6f70,https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png,ncaa_wbb
+2029,s:40~l:54~t:2029,,Arkansas-Pine Bluff,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff,UAPB,e0aa0f,eaaa00,https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png,ncaa_wbb
+2400,s:40~l:54~t:2400,,Mississippi Valley State,Devilettes,Mississippi Valley State Devilettes,Miss Valley St,MVSU,005328,cf2d34,https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png,ncaa_wbb
+2612,s:40~l:54~t:2612,,Saint Peter's,Peacocks,Saint Peter's Peacocks,Saint Peter's,SPU,004CC2,,https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png,ncaa_wbb
+204,s:40~l:54~t:204,,Oregon State,Beavers,Oregon State Beavers,Oregon St,ORST,dc4405,000000,https://a.espncdn.com/i/teamlogos/ncaa/500/204.png,ncaa_wbb
+250,s:40~l:54~t:250,,UT Arlington,Mavericks,UT Arlington Mavericks,UT Arlington,UTA,004b7c,f58024,https://a.espncdn.com/i/teamlogos/ncaa/500/250.png,ncaa_wbb
+70,s:40~l:54~t:70,,Idaho,Vandals,Idaho Vandals,Idaho,IDHO,000000,8c6e4a,https://a.espncdn.com/i/teamlogos/ncaa/500/70.png,ncaa_wbb
+2653,s:40~l:54~t:2653,,Troy,Trojans,Troy Trojans,Troy,TROY,862633,b1b1b1,https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png,ncaa_wbb
+2466,s:40~l:54~t:2466,,Northwestern State,Lady Demons,Northwestern State Lady Demons,N'Western St,NWST,492F91,ed6118,https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png,ncaa_wbb
+2504,s:40~l:54~t:2504,,Prairie View A&M,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View,PV,582c83,eaaa00,https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png,ncaa_wbb
+2016,s:40~l:54~t:2016,,Alcorn State,Lady Braves,Alcorn State Lady Braves,Alcorn St,ALCN,4b0058,46166a,https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png,ncaa_wbb
+2755,s:40~l:54~t:2755,,Grambling,Lady Tigers,Grambling Lady Tigers,Grambling,GRAM,ee8601,ffd10a,https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png,ncaa_wbb
+2441,s:40~l:54~t:2441,,New Haven,Chargers,New Haven Chargers,New Haven,NHVN,041e42,ffc425,https://a.espncdn.com/i/teamlogos/ncaa/500/2441.png,ncaa_wbb
+7,s:40~l:46~t:7,,Denver,Nuggets,Denver Nuggets,Nuggets,DEN,0e2240,fec524,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png,nba
+26,s:40~l:46~t:26,,Utah,Jazz,Utah Jazz,Jazz,UTAH,000000,79a3dc,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png,nba
+13,s:40~l:46~t:13,,Los Angeles,Lakers,Los Angeles Lakers,Lakers,LAL,552583,fdb927,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png,nba
+12,s:40~l:46~t:12,,LA,Clippers,LA Clippers,Clippers,LAC,12173f,c8102e,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png,nba
+2,s:40~l:46~t:2,,Boston,Celtics,Boston Celtics,Celtics,BOS,008348,ffffff,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png,nba
+30,s:40~l:46~t:30,,Charlotte,Hornets,Charlotte Hornets,Hornets,CHA,008ca8,1d1060,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png,nba
+28,s:40~l:46~t:28,,Toronto,Raptors,Toronto Raptors,Raptors,TOR,d91244,000000,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png,nba
+8,s:40~l:46~t:8,,Detroit,Pistons,Detroit Pistons,Pistons,DET,1d428a,c8102e,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png,nba
+3,s:40~l:46~t:3,,New Orleans,Pelicans,New Orleans Pelicans,Pelicans,NO,0a2240,b4975a,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png,nba
+6,s:40~l:46~t:6,,Dallas,Mavericks,Dallas Mavericks,Mavericks,DAL,0064b1,bbc4ca,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png,nba
+24,s:40~l:46~t:24,,San Antonio,Spurs,San Antonio Spurs,Spurs,SA,000000,c4ced4,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png,nba
+20,s:40~l:46~t:20,,Philadelphia,76ers,Philadelphia 76ers,76ers,PHI,1d428a,e01234,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png,nba
+5,s:40~l:46~t:5,,Cleveland,Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,860038,bc945c,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png,nba
+1,s:40~l:46~t:1,,Atlanta,Hawks,Atlanta Hawks,Hawks,ATL,c8102e,fdb927,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png,nba
+18,s:40~l:46~t:18,,New York,Knicks,New York Knicks,Knicks,NY,1d428a,f58426,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png,nba
+25,s:40~l:46~t:25,,Oklahoma City,Thunder,Oklahoma City Thunder,Thunder,OKC,007ac1,ef3b24,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png,nba
+23,s:40~l:46~t:23,,Sacramento,Kings,Sacramento Kings,Kings,SAC,5a2d81,6a7a82,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png,nba
+29,s:40~l:46~t:29,,Memphis,Grizzlies,Memphis Grizzlies,Grizzlies,MEM,5d76a9,12173f,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png,nba
+15,s:40~l:46~t:15,,Milwaukee,Bucks,Milwaukee Bucks,Bucks,MIL,00471b,eee1c6,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png,nba
+19,s:40~l:46~t:19,,Orlando,Magic,Orlando Magic,Magic,ORL,0150b5,9ca0a3,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png,nba
+27,s:40~l:46~t:27,,Washington,Wizards,Washington Wizards,Wizards,WSH,e31837,002b5c,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png,nba
+16,s:40~l:46~t:16,,Minnesota,Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,266092,79bc43,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png,nba
+9,s:40~l:46~t:9,,Golden State,Warriors,Golden State Warriors,Warriors,GS,fdb927,1d428a,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png,nba
+21,s:40~l:46~t:21,,Phoenix,Suns,Phoenix Suns,Suns,PHX,29127a,e56020,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png,nba
+4,s:40~l:46~t:4,,Chicago,Bulls,Chicago Bulls,Bulls,CHI,ce1141,000000,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png,nba
+14,s:40~l:46~t:14,,Miami,Heat,Miami Heat,Heat,MIA,98002e,000000,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png,nba
+11,s:40~l:46~t:11,,Indiana,Pacers,Indiana Pacers,Pacers,IND,002d62,ffd520,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png,nba
+17,s:40~l:46~t:17,,Brooklyn,Nets,Brooklyn Nets,Nets,BKN,000000,ffffff,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png,nba
+10,s:40~l:46~t:10,,Houston,Rockets,Houston Rockets,Rockets,HOU,ce1141,000000,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png,nba
+22,s:40~l:46~t:22,,Portland,Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,e03a3e,000000,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png,nba
+130579,s:40~l:46~t:130579,,Team Chuck,Team Chuck,Team Chuck,Team Chuck,CHK,,002b5c,https://a.espncdn.com/i/teamlogos/nba/500/chk.png,nba
+130580,s:40~l:46~t:130580,,Team Shaq,Team Shaq,Team Shaq,Team Shaq,SHQ,,002b5c,https://a.espncdn.com/i/teamlogos/nba/500/shq.png,nba
+132374,s:40~l:46~t:132374,,Team Stars,Team Stars,Team Stars,Team Stars,STARS,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/stars.png,nba
+132375,s:40~l:46~t:132375,,Team Stripes,Team Stripes,Team Stripes,Team Stripes,STRIPES,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/stripes.png,nba
+111353,s:40~l:46~t:111353,,Team LeBron,Team LeBron,Team LeBron,Team LeBron,LEB,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/leb.png,nba
+66329,s:40~l:46~t:66329,,,Real Madrid,Real Madrid,Real Madrid,REAL,,,,nba
+31,s:40~l:46~t:31,,Eastern Conf,All-Stars,Eastern Conf All-Stars,EAST,EAST,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/east.png,nba
+111836,s:40~l:46~t:111836,,New Zealand,Breakers,New Zealand Breakers,Breakers,NZL,,,https://a.espncdn.com/guid/d45b1189-8f3d-3c8e-bbcd-e1326a66a88f/logos/default.png,nba
+130136,s:40~l:46~t:130136,,Ulm,Ulm,Ulm,Ulm,,,,,nba
+130581,s:40~l:46~t:130581,,Team Kenny,Team Kenny,Team Kenny,Team Kenny,KEN,,fdb927,https://a.espncdn.com/i/teamlogos/nba/500/ken.png,nba
+130754,s:40~l:46~t:130754,,Team Candace,Team Candace,Team Candace,Team Candace,CAN,,fdb927,https://a.espncdn.com/i/teamlogos/nba/500/can.png,nba
+111124,s:40~l:46~t:111124,,Melbourne,Melbourne United,Melbourne United,Melbourne United,MEL,,,https://a.espncdn.com/guid/9439dfb9-542e-34c4-aac8-9266756e2168/logos/default.png,nba
+131570,s:40~l:46~t:131570,,,Hapoel Jerusalem,Hapoel Jerusalem,Hapoel Jerusalem,HAPOEL,,,,nba
+126120,s:40~l:46~t:126120,,Melbourne,Pnx,Melbourne Pnx,Pnx,,,,,nba
+111136,s:40~l:46~t:111136,,Guangzhou,Loong-Lions,Guangzhou Loong-Lions,Loong-Lions,GUANGZHOU,,,,nba
+111386,s:40~l:46~t:111386,,World,World,World,World,WORLD,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/world.png,nba
+123554,s:40~l:46~t:123554,,Team Durant,Team Durant,Team Durant,Team Durant,DUR,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dur.png,nba
+111837,s:40~l:46~t:111837,,ADELAIDE,36ers,ADELAIDE 36ers,36ers,ADL,,,https://a.espncdn.com/i/teamlogos/nba/500/adl.png,nba
+126689,s:40~l:46~t:126689,,RA'ANANA,Ra'Anana,Ra'Anana,Ra'Anana,MRC,,,https://a.espncdn.com/i/teamlogos/nba/500/mrc.png,nba
+112151,s:40~l:46~t:112151,,Team Giannis,Team Giannis,Team Giannis,Team Giannis,GIA,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gia.png,nba
+126121,s:40~l:46~t:126121,,Cairns,Taipans,Cairns Taipans,Taipans,CNS,,,https://a.espncdn.com/i/teamlogos/nba/500/cns.png,nba
+108597,s:40~l:46~t:108597,,Flamengo,Flamengo,Flamengo,Flamengo,FLMG,,,,nba
+32,s:40~l:46~t:32,,Western Conf,All-Stars,Western Conf All-Stars,WEST,WEST,,,https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/west.png,nba
+19,s:40~l:59~t:19,,Chicago,Sky,Chicago Sky,Sky,CHI,5091cd,ffd520,https://a.espncdn.com/i/teamlogos/wnba/500/chi.png,wnba
+17,s:40~l:59~t:17,,Las Vegas,Aces,Las Vegas Aces,Aces,LV,a7a8aa,000000,https://a.espncdn.com/i/teamlogos/wnba/500/lv.png,wnba
+5,s:40~l:59~t:5,,Indiana,Fever,Indiana Fever,Fever,IND,002d62,e03a3e,https://a.espncdn.com/i/teamlogos/wnba/500/ind.png,wnba
+14,s:40~l:59~t:14,,Seattle,Storm,Seattle Storm,Storm,SEA,2c5235,fee11a,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png,wnba
+129689,s:40~l:59~t:129689,,Golden State,Valkyries,Golden State Valkyries,Valkyries,GS,b38fcf,000000,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png,wnba
+16,s:40~l:59~t:16,,Washington,Mystics,Washington Mystics,Mystics,WSH,e03a3e,002b5c,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png,wnba
+9,s:40~l:59~t:9,,New York,Liberty,New York Liberty,Liberty,NY,86cebc,000000,https://a.espncdn.com/i/teamlogos/wnba/500/ny.png,wnba
+20,s:40~l:59~t:20,,Atlanta,Dream,Atlanta Dream,Dream,ATL,e31837,5091cc,https://a.espncdn.com/i/teamlogos/wnba/500/atl.png,wnba
+8,s:40~l:59~t:8,,Minnesota,Lynx,Minnesota Lynx,Lynx,MIN,266092,79bc43,https://a.espncdn.com/i/teamlogos/wnba/500/min.png,wnba
+3,s:40~l:59~t:3,,Dallas,Wings,Dallas Wings,Wings,DAL,002b5c,c4d600,https://a.espncdn.com/i/teamlogos/wnba/500/dal.png,wnba
+11,s:40~l:59~t:11,,Phoenix,Mercury,Phoenix Mercury,Mercury,PHX,3c286e,fa4b0a,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png,wnba
+18,s:40~l:59~t:18,,Connecticut,Sun,Connecticut Sun,Sun,CON,f05023,0a2240,https://a.espncdn.com/i/teamlogos/wnba/500/con.png,wnba
+6,s:40~l:59~t:6,,Los Angeles,Sparks,Los Angeles Sparks,Sparks,LA,552583,fdb927,https://a.espncdn.com/i/teamlogos/wnba/500/la.png,wnba
+131246,s:40~l:59~t:131246,,Team Clark,TEAM CLARK,TEAM CLARK,TEAM CLARK,CLA,,,https://a.espncdn.com/i/teamlogos/wnba/500/cla.png,wnba
+132052,s:40~l:59~t:132052,,Portland,Fire,Portland Fire,Fire,POR,cee5eb,000000,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png,wnba
+131935,s:40~l:59~t:131935,,Toronto,Tempo,Toronto Tempo,Tempo,TOR,33476D,7B1B38,https://a.espncdn.com/i/teamlogos/wnba/500/tor.png,wnba
+133384,s:40~l:59~t:133384,,Team Coop,TEAM COOP,TEAM COOP,TEAM COOP,COOP,,,,wnba
+112530,s:40~l:59~t:112530,,Team Wilson,Team Wilson,Team Wilson,Team Wilson,WIL,,,,wnba
+96,s:40~l:59~t:96,,Team WNBA,Team WNBA,Team WNBA,Team WNBA,WNBASTARS,,,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wnbastars.png,wnba
+17473,s:40~l:59~t:17473,,Brazil,Brazil,Brazil,Brazil,BRZL,,,,wnba
+130927,s:40~l:59~t:130927,,Toyota,Antelopes,Toyota Antelopes,Antelopes,TOY,,,,wnba
+131247,s:40~l:59~t:131247,,Team Collier,TEAM COLLIER,TEAM COLLIER,TEAM COLLIER,COL,,,https://a.espncdn.com/i/teamlogos/wnba/500/col.png,wnba
+17476,s:40~l:59~t:17476,,Nigeria,NIGERIA,NIGERIA,NIGERIA,NIGER,,,,wnba
+133383,s:40~l:59~t:133383,,Team Spoon,TEAM SPOON,TEAM SPOON,TEAM SPOON,SPO,,,,wnba
+126287,s:40~l:59~t:126287,,Team Stewart,TEAM STEWART,TEAM STEWART,TEAM STEWART,STE,,,,wnba
+104959,s:40~l:59~t:104959,,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PUERTORICO,,,,wnba
+97,s:40~l:59~t:97,,Team USA,Team USA,Team USA,Team USA,USA,,,https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/usa.png,wnba

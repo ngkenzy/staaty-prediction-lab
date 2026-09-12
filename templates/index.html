@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>STAATY Prediction Lab</title>
+<link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+</head>
+<body>
+<header><div class="brand">STAATY <span>PREDICTION LAB</span></div><div class="tag">Who wins. How. When.</div></header>
+<main>
+<section class="hero">
+<div><p class="eyebrow">PREDICT THE NEXT WINNING OUTCOME</p><h1>Who wins. <em>How.</em> When.</h1><p>Leakage-controlled sports prediction with chronological validation and held-out testing.</p></div>
+<div class="hero-card"><div class="metric"><b>4/4</b><span>basketball leagues >50%</span></div><div class="metric"><b>3/3</b><span>UFC targets >50%</span></div><div class="metric"><b>15%</b><span>untouched holdout</span></div></div>
+</section>
+
+<section class="competition-scorecard">
+  <div class="scorecard-head">
+    <div><span>COMPETITION SCORECARD</span><strong>7 / 7 core targets above 50%</strong></div>
+    <small>Chronological final holdout · no random shuffle</small>
+  </div>
+  <div class="scorecard-grid">
+    <div><b>63.6%</b><span>NBA winner</span></div>
+    <div><b>68.6%</b><span>NCAA Men</span></div>
+    <div><b>75.6%</b><span>NCAA Women</span></div>
+    <div><b>66.2%</b><span>WNBA winner</span></div>
+    <div><b>61.2%</b><span>UFC winner</span></div>
+    <div><b>52.4%</b><span>UFC method</span></div>
+    <div><b>57.5%</b><span>UFC ending round</span></div>
+  </div>
+</section>
+
+<nav class="tabs">
+<button class="tab active" data-tab="basketball">Basketball</button>
+<button class="tab" data-tab="ufc">UFC</button>
+<button class="tab" data-tab="radar">Upset Radar</button>
+<button class="tab" data-tab="replay">Historical Replay</button>
+<button class="tab" data-tab="proof">Model Proof</button>
+</nav>
+
+<section id="basketball" class="panel active">
+<div class="section-title"><span>Basketball Predictor</span><small>League-specific champion model</small></div>
+{% if bb.teams %}
+<div class="controls">
+<label>League<select id="bbLeague"></select></label>
+
+<label>Home Team
+  <div class="search-picker">
+    <input id="bbHomeSearch" type="text" autocomplete="off" placeholder="Type team name..." oninput="filterTeamPicker('home')" onfocus="filterTeamPicker('home')">
+    <div id="bbHomeMatches" class="picker-menu hidden"></div>
+  </div>
+  <select id="bbHome" class="hidden-select" aria-hidden="true"></select>
+</label>
+
+<div class="vs">VS</div>
+
+<label>Away Team
+  <div class="search-picker">
+    <input id="bbAwaySearch" type="text" autocomplete="off" placeholder="Type team name..." oninput="filterTeamPicker('away')" onfocus="filterTeamPicker('away')">
+    <div id="bbAwayMatches" class="picker-menu hidden"></div>
+  </div>
+  <select id="bbAway" class="hidden-select" aria-hidden="true"></select>
+</label>
+</div>
+<label class="check"><input type="checkbox" id="bbNeutral"> Neutral-site game</label>
+
+<div class="spread-input-card">
+  <div>
+    <span class="spread-title">BONUS: SPREAD LAB</span>
+    <small>Optional: enter the home team's market spread to estimate cover probability.</small>
+  </div>
+  <div class="spread-entry">
+    <label>Home spread
+      <input id="bbMarketSpread" type="number" step="0.5" placeholder="-5.5">
+    </label>
+  </div>
+</div>
+<div class="edge-rubric">
+  <span><b>&lt;1.5</b> No edge</span>
+  <span><b>1.5–3</b> Small</span>
+  <span><b>3–5</b> Moderate</span>
+  <span><b>5+</b> Strong</span>
+</div>
+<button class="predict" onclick="predictBasketball()">RUN PREDICTION</button>
+<div id="bbResult" class="results hidden"></div>
+<div id="bbAsk" class="ask-card hidden">
+  <div class="ask-head"><span>ASK STAATY</span><small>Zero-cost model explanation — no external API required.</small></div>
+  <div class="ask-row">
+    <input id="bbQuestion" type="text" placeholder="Why is this team favored?">
+    <button onclick="askGemini('basketball')">ASK</button>
+  </div>
+  <div class="quick-asks">
+    <button onclick="quickAsk('basketball','Why is the predicted winner favored?')">Why favored?</button>
+    <button onclick="quickAsk('basketball','How confident should I be in this prediction?')">Confidence?</button>
+    <button onclick="quickAsk('basketball','What are the biggest upset risks?')">Upset risks?</button>
+  </div>
+  <div id="bbAnswer" class="ai-answer hidden"></div>
+</div>
+<script>window.BASKETBALL_TEAMS={{ bb.teams|tojson }};</script>
+{% else %}<div class="notice">Run <code>python train_basketball.py</code>.</div>{% endif %}
+</section>
+
+<section id="ufc" class="panel">
+<div class="section-title"><span>UFC Predictor</span><small>Winner · Method · Round</small></div>
+{% if ufc.fighters %}
+<div class="controls ufc-controls">
+<label>Fighter A
+  <div class="search-picker">
+    <input id="fighterASearch" type="text" autocomplete="off" placeholder="Type fighter name..." oninput="filterFighterPicker('a')" onfocus="filterFighterPicker('a')">
+    <div id="fighterAMatches" class="picker-menu hidden"></div>
+  </div>
+  <select id="fighterA" class="hidden-select" aria-hidden="true">{% for f in ufc.fighters %}<option>{{f}}</option>{% endfor %}</select>
+</label>
+
+<label>Fighter B
+  <div class="search-picker">
+    <input id="fighterBSearch" type="text" autocomplete="off" placeholder="Type fighter name..." oninput="filterFighterPicker('b')" onfocus="filterFighterPicker('b')">
+    <div id="fighterBMatches" class="picker-menu hidden"></div>
+  </div>
+  <select id="fighterB" class="hidden-select" aria-hidden="true">{% for f in ufc.fighters|reverse %}<option>{{f}}</option>{% endfor %}</select>
+</label>
+
+<label>Weight class<select id="weightClass"><option>Flyweight</option><option>Bantamweight</option><option>Featherweight</option><option selected>Lightweight</option><option>Welterweight</option><option>Middleweight</option><option>Light Heavyweight</option><option>Heavyweight</option></select></label>
+<label>Rounds<select id="scheduledRounds"><option value="3">3</option><option value="5">5</option></select></label>
+</div>
+<button class="predict" onclick="predictUFC()">RUN PREDICTION</button>
+<div id="ufcResult" class="results hidden"></div>
+<div id="ufcAsk" class="ask-card hidden">
+  <div class="ask-head"><span>ASK STAATY</span><small>Zero-cost model explanation — no external API required.</small></div>
+  <div class="ask-row">
+    <input id="ufcQuestion" type="text" placeholder="Why is this fighter favored?">
+    <button onclick="askGemini('ufc')">ASK</button>
+  </div>
+  <div class="quick-asks">
+    <button onclick="quickAsk('ufc','Why is the predicted fighter favored?')">Why favored?</button>
+    <button onclick="quickAsk('ufc','Why is this method of victory most likely?')">Why this method?</button>
+    <button onclick="quickAsk('ufc','What could make this prediction wrong?')">What could go wrong?</button>
+  </div>
+  <div id="ufcAnswer" class="ai-answer hidden"></div>
+</div>
+<script>window.UFC_FIGHTERS={{ ufc.fighters|tojson }};</script>
+{% else %}<div class="notice">Run <code>python train_ufc.py</code>.</div>{% endif %}
+</section>
+
+
+<section id="radar" class="panel">
+<div class="section-title"><span>Upset Radar</span><small>Find the matchups the model thinks are most volatile</small></div>
+<div class="radar-controls">
+<label>League<select id="radarLeague"><option value="nba">NBA</option><option value="wnba">WNBA</option><option value="ncaa_mbb">NCAA Men</option><option value="ncaa_wbb">NCAA Women</option></select></label>
+<button class="predict" onclick="loadRadar()">SCAN MATCHUPS</button>
+</div>
+<div class="notice small-note">Radar ranks model-generated matchup volatility from the latest saved team states. NCAA is limited to a subset for speed.</div>
+<div id="radarResults" class="radar-grid"></div>
+</section>
+
+<section id="replay" class="panel">
+<div class="section-title"><span>Historical Replay</span><small>Exact predictions from the untouched final holdout</small></div>
+
+<div class="replay-toolbar">
+<label>Sport
+<select id="replaySport" onchange="toggleReplayLeague()">
+<option value="basketball">Basketball</option>
+<option value="ufc">UFC</option>
+</select>
+</label>
+
+<label id="replayLeagueWrap">League
+<select id="replayLeague">
+<option value="">All leagues</option>
+<option value="nba">NBA</option>
+<option value="wnba">WNBA</option>
+<option value="ncaa_mbb">NCAA Men</option>
+<option value="ncaa_wbb">NCAA Women</option>
+</select>
+</label>
+
+<label>Result
+<select id="replayCorrect">
+<option value="all">All predictions</option>
+<option value="yes">Correct only</option>
+<option value="no">Misses only</option>
+</select>
+</label>
+
+<button class="predict" onclick="loadExactReplay()">LOAD HOLDOUT REPLAY</button>
+</div>
+
+<div class="replay-proof-line">
+<span>✓ Pre-event features only</span>
+<span>✓ Chronological final 15%</span>
+<span>✓ Actual result stored after prediction</span>
+</div>
+
+<div id="replaySummary" class="notice hidden"></div>
+<div id="replayResults" class="replay-list"></div>
+</section>
+
+<section id="proof" class="panel">
+<div class="section-title"><span>Model Proof</span><small>Evidence before prediction</small></div>
+
+<div class="proof-banner">
+<div><span class="proof-kicker">Bounty target</span><strong>&gt;50% accuracy</strong></div>
+<div><span class="proof-kicker">Evaluation</span><strong>Chronological holdout</strong></div>
+<div><span class="proof-kicker">Leakage control</span><strong>Shifted pre-event history</strong></div>
+</div>
+
+<h2>Basketball held-out results</h2>
+<div id="basketballProof" class="proof-grid"></div>
+
+<h2>UFC held-out results</h2>
+<div id="ufcProof" class="proof-grid"></div>
+
+<h2>Evaluation protocol</h2>
+<div class="science-grid">
+<article><h3>70 / 15 / 15</h3><p>70% training, 15% validation, and 15% untouched final holdout.</p></article>
+<article><h3>No random shuffle</h3><p>Events remain chronological so future games and fights do not leak backward.</p></article>
+<article><h3>Shifted histories</h3><p>Rolling and fighter-history features are calculated from prior events only.</p></article>
+<article><h3>Correct 5-round context</h3><p>UFC scheduled rounds come from TIME FORMAT, not the actual finishing round.</p></article>
+<article><h3>Champion selection</h3><p>Candidate models are selected using validation performance before final holdout reporting.</p></article>
+<article><h3>Beyond accuracy</h3><p>Log loss, Brier score, ROC-AUC, and macro-F1 reveal calibration and class-balance weaknesses.</p></article>
+</div>
+</section>
+</main>
+<script src="{{ url_for('static',filename='app.js') }}"></script>
+</body></html>
